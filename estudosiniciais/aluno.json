@@ -1,0 +1,147 @@
+[
+    {
+    "Nome": "Alan Correira da Silva",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.0,
+    "Região": "Goiás",
+    "Idade": 19
+},
+
+{
+    "Nome": "Maria Joana ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.5,
+    "Região": "Rio Grand do Sul",
+    "Idade": 17
+},
+{
+    "Nome": "josé Helias  ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 8.5,
+    "Região": "Rio Grand do Sul",
+    "Idade": 19
+},
+
+{
+    "Nome": "jhonas Sandro  ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 7.5,
+    "Região": "DF",
+    "Idade": 89
+},
+
+{
+    "Nome": "Elias Estenio ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 7.5,
+    "Região": "DF",
+    "Idade": 50
+},
+
+{
+    "Nome": "Aldo Rabelo  ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 6.5,
+    "Região": "Goias",
+    "Idade": 25
+},
+
+{
+    "Nome": "Jeremias Silva",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 7.5,
+    "Região": "DF",
+    "Idade": 89
+},
+
+{
+    "Nome": "Ailton Regis ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 6.5,
+    "Região": "Tocantins",
+    "Idade": 17
+},
+
+{
+    "Nome": "Lucas Deive ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.0,
+    "Região": "Rio Grand do Sul",
+    "Idade": 21
+},
+
+{
+    "Nome": "Hamud Mustafa ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.5,
+    "Região": "Sao Paulo",
+    "Idade": 48
+},
+
+{
+    "Nome": "Cleide Santos ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 7.5,
+    "Região": "Goias",
+    "Idade": 28
+},
+
+{
+    "Nome": "Davi Santos",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 8.5,
+    "Região": "Para",
+    "Idade": 25
+},
+
+{
+    "Nome": "Dayane Rosa ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 6.5,
+    "Região": "Goias",
+    "Idade": 25
+},
+
+{
+    "Nome": "Sandro Jeremias ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.5,
+    "Região": "Goias",
+    "Idade": 33
+},
+
+{
+    "Nome": "Renis Paulo ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 8.5,
+    "Região": "Goias",
+    "Idade": 39
+},
+
+{
+    "Nome": "Rodrigo Cerqueira ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 7.5,
+    "Região": "Tocantins",
+    "Idade": 42
+},
+
+{
+    "Nome": "Joao Paulo ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.5,
+    "Região": "Goias",
+    "Idade": 16
+},
+
+{
+    "Nome": "Sirley Silva ",
+    "Escolaridade":"Ensino Medio",
+    "Score de notas": 9.5,
+    "Região": "Goias",
+    "Idade": 22
+}
+
+
+
+]
