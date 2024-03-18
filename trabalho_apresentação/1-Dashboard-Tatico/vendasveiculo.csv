@@ -1,0 +1,720 @@
+DataNotaFiscal;Fabricante;Estado;ValorVenda;ValorCusto;TotalDesconto;CustoEntrega;CustoMaoDeObra;NomeCliente;Modelo;Cor;Ano
+04/10/2018;Rolls Royce;São Paulo;950000;500000;5000;7500;7500;Aldo Motors;Camargue;Vermelho;2018
+01/01/2018;Aston Martin;São Paulo;1200000;750000;0;15000;5500;Honest John;DBS;Azul;2018
+02/02/2018;Rolls Royce;São Paulo;880000;750000;7500;10000;5500;Bright Orange;Prata Ghost;Verde;2018
+03/03/2018;Rolls Royce;São Paulo;890000;880000;0;10000;5500;Honest John;Prata Ghost;Azul;2018
+04/04/2018;Rolls Royce;São Paulo;920000;620000;0;15000;5500;Wheels'R'Us;Camargue;Prata;2018
+04/05/2018;Rolls Royce;São Paulo;1025000;1250000;0;10000;5500;Cut'n'Shut;Camargue;Verde;2018
+04/06/2018;Aston Martin;São Paulo;1100000;560000;7500;5000;5500;Bright Orange;DBS;Púrpura;2018
+04/07/2018;Aston Martin;Minas Gerais;1250000;235000;25000;10000;5500;Les Arnaqueurs;DB7;Vermelho;2018
+04/08/2018;Aston Martin;São Paulo;1300000;155000;0;10000;7500;Aldo Motors;DB9;Azul;2018
+04/09/2018;Aston Martin;São Paulo;750000;758900;0;10000;7500;Aldo Motors;DB9;Prata;2018
+04/09/2018;Aston Martin;São Paulo;685000;990000;0;10000;7500;Aldo Motors;DB4;Azul;2018
+04/11/2018;Aston Martin;Minas Gerais;950000;1250000;0;15000;7500;Les Arnaqueurs;Vantage;Prata;2018
+04/11/2018;Aston Martin;São Paulo;1550000;1250000;0;15000;7500;Wheels'R'Us;Vanquish;Azul;2018
+04/12/2018;Aston Martin;São Paulo;950000;1550000;50000;15000;5700;Bright Orange;Rapide;Preto;2018
+04/12/2018;Aston Martin;São Paulo;1785000;1250000;0;15000;5700;Cut'n'Shut;Zagato;Verde;2018
+02/01/2019;Rolls Royce;Minas Gerais;1300000;620000;0;17500;5700;Les Arnaqueurs;Prata Ghost;Prata;2019
+02/02/2019;Rolls Royce;São Paulo;1785000;620000;0;17500;6540;Wheels'R'Us;Wraith;Prata;2019
+02/03/2019;Rolls Royce;São Paulo;1100000;758900;0;9900;9870;Cut'n'Shut;Prata Ghost;Verde;2016
+02/04/2019;Rolls Royce;São Paulo;1300000;620000;0;5000;6540;Bright Orange;Camargue;Azul;2016
+02/05/2019;Rolls Royce;São Paulo;1785000;758900;9500;17500;3210;Honest John;Prata Shadow;Vermelho;2016
+02/06/2019;Rolls Royce;São Paulo;1100000;620000;0;17500;9510;Aldo Motors;Prata Seraph;Vermelho;2016
+02/07/2019;Rolls Royce;São Paulo;1025000;620000;17500;5000;9870;Aldo Motors;Prata Ghost;Preto;2016
+02/08/2019;Rolls Royce;São Paulo;1300000;620000;0;10000;7500;Honest John;Prata Shadow;Verde;2016
+02/09/2019;Rolls Royce;São Paulo;1785000;758900;0;4500;6540;Bright Orange;Camargue;Púrpura;2016
+02/10/2019;Rolls Royce;São Paulo;1785000;758900;0;17500;9870;Wheels'R'Us;Prata Seraph;Vermelho;2016
+02/11/2019;Rolls Royce;São Paulo;1300000;758900;7500;17500;3210;Cut'n'Shut;Prata Ghost;Vermelho;2016
+02/12/2019;Rolls Royce;São Paulo;1785000;620000;0;17500;6540;Wheels'R'Us;Phantom;Verde;2016
+02/01/2019;Aston Martin;São Paulo;1785000;758900;0;5000;9870;Wheels'R'Us;DB9;Púrpura;2016
+02/02/2019;Aston Martin;São Paulo;1100000;758900;0;5000;9630;Cut'n'Shut;DB4;Verde;2016
+02/03/2019;Aston Martin;São Paulo;1785000;758900;0;5000;8520;Cut'n'Shut;DB9;Preto;2016
+02/04/2019;Aston Martin;São Paulo;1100000;758900;0;0;1470;Bright Orange;DB4;Azul;2016
+02/05/2019;Aston Martin;São Paulo;1025000;758900;1;5000;8520;Bright Orange;DB4;Prata;2016
+02/06/2019;Aston Martin;São Paulo;1785000;620000;7500;4500;6540;Honest John;Vanquish;Prata;2016
+02/07/2019;Aston Martin;São Paulo;1245000;620000;10000;4500;9840;Aldo Motors;Vanquish;Verde;2016
+02/08/2019;Aston Martin;São Paulo;1300000;620000;12500;4500;8950;Aldo Motors;DB9;Azul;2016
+02/09/2019;Aston Martin;São Paulo;1100000;620000;0;0;4860;Honest John;DB9;Azul;2016
+02/10/2019;Aston Martin;São Paulo;1785000;620000;0;4500;3250;Bright Orange;Vanquish;Vermelho;2019
+02/11/2019;Aston Martin;São Paulo;1300000;1250000;0;17500;6580;Wheels'R'Us;Rapide;Vermelho;2019
+02/12/2019;Aston Martin;São Paulo;1100000;1250000;0;17500;7520;Cut'n'Shut;Vanquish;Vermelho;2019
+01/01/2018;Jaguar;Rio de Janeiro;440000;250000;5000;4500;4860;Rocky Riding;XK;Púrpura;2018
+01/02/2018;Jaguar;Rio de Janeiro;450000;375000;5000;4500;4860;Rocky Riding;XJ6;Verde;2018
+01/03/2018;Jaguar;Espírito Santo;395000;250000;5000;0;4860;Voitures Diplomatiques S.A.;XJ12;Preto;2018
+01/04/2018;Jaguar;Minas Gerais;440000;375000;5000;5000;4860;Les Arnaqueurs;XK;Prata;2018
+01/05/2018;Jaguar;São Paulo;440000;250000;5000;5000;4860;Bright Orange;XJ12;Prata;2018
+01/06/2018;Jaguar;São Paulo;395000;375000;5000;5000;4860;Honest John;XK;Azul;2018
+01/07/2018;Jaguar;São Paulo;440000;250000;5000;17500;4860;Wheels'R'Us;XK;Verde;2018
+01/08/2018;Jaguar;São Paulo;1100000;500000;7500;5000;4860;Cut'n'Shut;XJ12;Azul;2018
+01/09/2018;Jaguar;Rio de Janeiro;1100000;250000;7500;17500;9870;Rocky Riding;XJ12;Prata;2018
+01/10/2018;Jaguar;Espírito Santo;440000;375000;7500;17500;9870;Voitures Diplomatiques S.A.;XJ6;Verde;2018
+01/11/2018;Jaguar;São Paulo;395000;250000;0;5000;9870;Aldo Motors;XK;Púrpura;2018
+01/12/2018;Jaguar;São Paulo;440000;375000;0;5000;9870;Aldo Motors;XK;Preto;2018
+02/01/2019;Jaguar;São Paulo;440000;250000;0;17500;9870;Honest John;XK;Verde;2019
+02/02/2019;Jaguar;São Paulo;440000;375000;0;5000;9870;Bright Orange;XK;Púrpura;2019
+02/03/2019;Jaguar;São Paulo;395000;250000;7500;5000;9870;Cut'n'Shut;XJ6;Vermelho;2019
+02/04/2019;Jaguar;São Paulo;1100000;375000;7500;5000;9870;Wheels'R'Us;XJ6;Vermelho;2019
+02/05/2019;Jaguar;São Paulo;440000;250000;7500;5000;9870;Crippen & Co;XJ6;Vermelho;2019
+02/06/2019;Jaguar;Espírito Santo;395000;375000;5000;4500;9870;Voitures Diplomatiques S.A.;XK;Púrpura;2019
+02/07/2019;Jaguar;Rio de Janeiro;395000;250000;5000;4500;7500;Rocky Riding;XK;Verde;2019
+02/08/2019;Jaguar;São Paulo;395000;125000;5000;4500;7500;Crippen & Co;XK;Preto;2019
+02/09/2019;Jaguar;Minas Gerais;395000;250000;5000;5000;7500;Les Arnaqueurs;XK;Azul;2019
+02/10/2019;Jaguar;São Paulo;395000;375000;7500;5000;7500;Wheels'R'Us;XK;Prata;2019
+02/11/2019;Jaguar;São Paulo;395000;250000;7500;5000;12500;Wheels'R'Us;XK;Prata;2019
+02/12/2019;Jaguar;São Paulo;395000;375000;7500;5000;12500;Cut'n'Shut;XJ6;Verde;2019
+01/01/2018;Bentley;São Paulo;395000;257000;7500;5000;12500;Cut'n'Shut;Continental;Azul;2018
+01/02/2018;Bentley;São Paulo;440000;257000;7500;5000;12500;Bright Orange;Arnage;Azul;2018
+01/03/2018;Bentley;São Paulo;440000;257000;7500;5000;9870;Bright Orange;Azure;Vermelho;2018
+01/04/2018;Bentley;São Paulo;1100000;257000;7500;7750;12500;Honest John;Turbo R;Vermelho;2018
+01/05/2018;Bentley;São Paulo;1100000;620000;7500;7750;9870;Honest John;Continental;Prata;2018
+01/06/2018;Bentley;São Paulo;1100000;620000;5000;7750;12500;Aldo Motors;Continental;Púrpura;2018
+01/07/2018;Bentley;São Paulo;1100000;257000;5000;7750;9870;Aldo Motors;Continental;Verde;2018
+01/08/2018;Bentley;Espírito Santo;1100000;257000;5000;7750;12500;Voitures Diplomatiques S.A.;Azure;Preto;2018
+01/09/2018;Bentley;Rio de Janeiro;440000;257000;5000;7750;9870;Rocky Riding;Turbo R;Prata;2018
+01/10/2018;Bentley;Minas Gerais;1100000;620000;5000;5000;12500;Les Arnaqueurs;Continental;Prata;2018
+01/11/2018;Bentley;São Paulo;440000;620000;5000;4500;9870;Aldo Motors;Continental;Prata;2018
+01/12/2018;Bentley;São Paulo;440000;620000;5000;4500;9870;Honest John;Continental;Azul;2018
+02/01/2019;Bentley;São Paulo;1100000;257000;5000;4500;12500;Bright Orange;Continental;Azul;2019
+02/02/2019;Bentley;São Paulo;1100000;257000;5000;5000;7500;Cut'n'Shut;Continental;Verde;2019
+02/03/2019;Bentley;São Paulo;412500;257000;5000;7750;7500;Wheels'R'Us;Azure;Azul;2019
+02/04/2019;Bentley;Minas Gerais;1100000;257000;5000;7750;7500;Les Arnaqueurs;Turbo R;Vermelho;2019
+02/05/2019;Bentley;São Paulo;395000;620000;5000;7750;7500;Crippen & Co;Turbo R;Vermelho;2019
+02/06/2019;Bentley;Rio de Janeiro;395000;620000;5000;5000;4860;Rocky Riding;Continental;Vermelho;2019
+02/07/2019;Bentley;São Paulo;395000;257000;5000;5000;4860;Aldo Motors;Continental;Púrpura;2019
+02/08/2019;Bentley;São Paulo;412500;620000;5000;7750;4860;Honest John;Continental;Púrpura;2019
+02/09/2019;Bentley;Minas Gerais;395000;620000;12500;4500;4860;Les Arnaqueurs;Continental;Verde;2019
+02/10/2019;Bentley;São Paulo;440000;620000;10000;4500;4860;Wheels'R'Us;Continental;Preto;2019
+02/11/2019;Bentley;São Paulo;440000;257000;10000;4500;4860;Honest John;Azure;Azul;2019
+02/12/2019;Bentley;São Paulo;440000;257000;10000;4500;4860;Aldo Motors;Turbo R;Prata;2019
+02/01/2019;Jaguar;Paraná;297500;375000;1500;500;4860;Costa Del Speed;XK;Vermelho;2019
+02/02/2019;TVR;Bahia;230000;375000;1500;500;3250;Karz;Tuscan;Azul;2019
+02/03/2019;Jaguar;Paraná;395000;375000;1500;500;3250;Costa Del Speed;XK;Verde;2019
+02/04/2019;TVR;Minas Gerais;297500;375000;1500;500;3250;Karz;Cerbera;Prata;2019
+02/05/2019;Jaguar;Minas Gerais;1200000;375000;1500;500;3250;Voitures Diplomatiques S.A.;XK;Prata;2019
+02/06/2019;TVR;Rio de Janeiro;297500;375000;1500;500;3250;Rocky Riding;Tuscan;Azul;2019
+02/07/2019;Jaguar;São Paulo;412500;375000;1500;500;3250;Honest John;XK;Prata;2019
+02/08/2019;TVR;Minas Gerais;297500;375000;1500;500;3250;Les Arnaqueurs;Cerbera;Prata;2019
+02/09/2019;Jaguar;São Paulo;395000;375000;1500;500;3250;Wheels'R'Us;XK;Verde;2019
+02/10/2019;TVR;Rio de Janeiro;412500;375000;1500;500;3250;Rocky Riding;Tuscan;Azul;2019
+02/11/2019;Jaguar;São Paulo;297500;375000;1500;500;3250;Wheels'R'Us;XK;Azul;2019
+02/12/2019;Jaguar;São Paulo;412500;375000;1500;500;3250;Bright Orange;XJ6;Azul;2019
+02/01/2019;Jaguar;São Paulo;395000;257000;1500;500;2500;Olde Englande;XJ6;Púrpura;2019
+02/02/2019;Jaguar;São Paulo;395000;257000;1500;500;2500;Impressive Wheels;XJ6;Verde;2019
+02/03/2019;Jaguar;São Paulo;395000;257000;1500;500;2500;Olde Englande;XJ6;Preto;2019
+02/04/2019;Jaguar;São Paulo;395000;620000;1500;500;2500;Smooth Riders;XK;Azul;2019
+02/05/2019;Jaguar;São Paulo;412500;620000;1500;500;2500;Luxury Rentals;XK;Prata;2019
+02/06/2019;Jaguar;São Paulo;412500;257000;1500;500;2500;Premium Motor Vehicles;XJ6;Prata;2019
+02/07/2019;Jaguar;São Paulo;395000;257000;1500;500;2500;Luxury Rentals;XJ6;Prata;2019
+02/08/2019;Jaguar;São Paulo;395000;257000;1500;500;2500;Aldo Motors;XK;Prata;2019
+02/09/2019;Jaguar;São Paulo;395000;620000;1500;500;2500;Honest John;XK;Prata;2019
+02/10/2019;Jaguar;São Paulo;395000;257000;1500;500;2500;Honest John;XJ6;Prata;2019
+02/11/2019;Jaguar;São Paulo;412500;620000;1500;500;2500;Bright Orange;XK;Azul;2019
+02/12/2019;Jaguar;São Paulo;412500;620000;1500;500;2500;Cut'n'Shut;XK;Azul;2019
+02/01/2019;MGB;São Paulo;395000;45000;1500;500;3250;Wheels'R'Us;GT;Verde;2019
+02/02/2019;MGB;São Paulo;395000;85000;1500;500;3250;Olde Englande;GT;Verde;2019
+02/03/2019;MGB;São Paulo;252500;45000;1500;500;3250;Wheels'R'Us;GT;Vermelho;2019
+02/04/2019;MGB;São Paulo;225000;85000;1500;500;3250;Wheels'R'Us;GT;Vermelho;2019
+02/05/2019;MGB;São Paulo;225000;45000;1500;500;3250;Cut'n'Shut;GT;Vermelho;2019
+02/06/2019;MGB;São Paulo;225000;85000;1500;500;3250;Cut'n'Shut;GT;Vermelho;2019
+02/07/2019;MGB;São Paulo;252500;45000;1500;500;3250;Bright Orange;GT;Azul;2019
+02/08/2019;MGB;São Paulo;225000;85000;1500;500;3250;Honest John;GT;Verde;2019
+02/09/2019;MGB;São Paulo;252500;45000;1500;500;3250;Aldo Motors;GT;Prata;2019
+02/10/2019;MGB;São Paulo;225000;85000;1500;500;3250;Honest John;GT;Prata;2019
+02/11/2019;MGB;São Paulo;252500;45000;1500;500;3250;Bright Orange;GT;Azul;2019
+02/12/2019;MGB;São Paulo;225000;45000;1500;500;3250;Aldo Motors;GT;Verde;2019
+02/01/2019;Triumph;São Paulo;225000;85000;1500;500;3250;Luxury Rentals;TR4;Preto;2019
+02/02/2019;Triumph;São Paulo;252500;170000;1500;500;3250;Smooth Riders;TR5;Púrpura;2019
+02/03/2019;Triumph;São Paulo;225000;85000;1500;500;3250;Honest John;TR7;Verde;2019
+02/04/2019;Triumph;São Paulo;225000;170000;1500;500;3250;Impressive Wheels;TR4;Azul;2019
+02/05/2019;Triumph;São Paulo;225000;85000;1500;500;3250;Bright Orange;TR4;Prata;2019
+02/06/2019;Triumph;Paraná;225000;170000;1500;500;3250;Costa Del Speed;TR5;Prata;2019
+02/07/2019;Triumph;São Paulo;252500;170000;1500;500;3250;Cut'n'Shut;TR5;Azul;2019
+02/08/2019;Triumph;São Paulo;225000;170000;1500;500;3250;Wheels'R'Us;TR4;Azul;2019
+02/09/2019;Triumph;São Paulo;252500;170000;1500;500;3250;Olde Englande;TR4;Vermelho;2019
+02/10/2019;Triumph;São Paulo;252500;170000;1500;500;3250;Impressive Wheels;TR7;Vermelho;2019
+02/11/2019;Triumph;São Paulo;252500;170000;1500;500;3250;Cut'n'Shut;TR4;Verde;2019
+02/12/2019;Triumph;São Paulo;252500;170000;1500;500;4500;Bright Orange;TR5;Prata;2019
+09/01/2019;Aston Martin;Minas Gerais;745000;311250;5000;9750;12500;Chateau Moi;DB7;Vermelho;2019
+10/01/2019;Aston Martin;Minas Gerais;692500;175000;12500;9750;12500;Vive la Vitesse!;DB7;Azul;2019
+11/02/2019;Aston Martin;Minas Gerais;227500;225000;5000;9750;9500;Carosse Des Papes;Vantage;Verde;2019
+12/03/2019;Aston Martin;Minas Gerais;370000;175000;10000;9750;12500;Three Country Cars;Vantage;Prata;2019
+13/03/2019;Rolls Royce;Minas Gerais;745000;311250;7500;9750;12500;Jungfrau;Camargue;Prata;2019
+14/03/2019;Aston Martin;Minas Gerais;458000;175000;10000;9750;9500;Chateau Moi;DB7;Azul;2019
+15/04/2019;Rolls Royce;Minas Gerais;227500;225000;25000;3500;12500;Vive la Vitesse!;Camargue;Preto;2019
+16/04/2019;Aston Martin;Minas Gerais;458000;175000;12500;3500;12500;Carosse Des Papes;Vantage;Vermelho;2019
+17/05/2019;Aston Martin;Minas Gerais;370000;175000;10000;3500;12500;Three Country Cars;DB7;Azul;2019
+18/05/2019;Aston Martin;Minas Gerais;458000;175000;5000;9750;12500;Jungfrau;Vantage;Verde;2019
+19/05/2019;Aston Martin;Minas Gerais;376900;225000;10000;9750;9500;Chateau Moi;DB7;Prata;2019
+20/06/2019;Aston Martin;Minas Gerais;745000;175000;25000;9750;12500;Vive la Vitesse!;Vantage;Prata;2019
+21/07/2019;Rolls Royce;Minas Gerais;458000;175000;12500;9750;12500;Carosse Des Papes;Camargue;Azul;2019
+22/07/2019;Aston Martin;Minas Gerais;370000;225000;10000;2750;12500;Three Country Cars;DB7;Preto;2019
+23/09/2019;Aston Martin;Minas Gerais;376900;175000;12500;2750;12500;Jungfrau;DB9;Vermelho;2019
+24/10/2019;Rolls Royce;Minas Gerais;692500;175000;5000;2750;9500;Jungfrau;Camargue;Azul;2019
+25/11/2019;Aston Martin;Minas Gerais;376900;311250;10000;9750;12500;Vive la Vitesse!;DB9;Verde;2019
+26/11/2019;Aston Martin;Minas Gerais;745000;175000;7500;9750;12500;Jungfrau;DB7;Prata;2019
+27/11/2019;Aston Martin;Minas Gerais;376900;175000;5000;9750;12500;Carosse Des Papes;DB9;Prata;2019
+04/10/2020;Rolls Royce;São Paulo;977500;550000;5500;7250;7500;Aldo Motors;Camargue;Prata;2020
+01/01/2020;Aston Martin;São Paulo;1227500;800000;500;14750;5500;Honest John;DBS;Azul;2020
+02/02/2020;Rolls Royce;São Paulo;907500;800000;8000;9750;5500;Bright Orange;Prata Ghost;Verde;2020
+03/03/2020;Rolls Royce;São Paulo;917500;930000;500;9750;5500;Honest John;Prata Ghost;Azul;2020
+04/04/2020;Rolls Royce;São Paulo;947500;670000;500;14750;5500;Wheels'R'Us;Camargue;Prata;2020
+04/05/2020;Rolls Royce;São Paulo;1052500;1300000;500;9750;5500;Cut'n'Shut;Camargue;Verde;2020
+04/06/2020;Aston Martin;São Paulo;1127500;610000;8000;4750;5500;Bright Orange;DBS;Púrpura;2020
+04/07/2020;Aston Martin;Minas Gerais;1277500;285000;25500;9750;5500;Les Arnaqueurs;DB7;Vermelho;2020
+04/08/2020;Aston Martin;São Paulo;1327500;205000;500;9750;7500;Aldo Motors;DB9;Azul;2020
+04/09/2020;Aston Martin;São Paulo;777500;808900;500;9750;7500;Aldo Motors;DB9;Prata;2020
+04/11/2020;Aston Martin;Minas Gerais;712500;1040000;500;14750;7500;Les Arnaqueurs;DB4;Azul;2020
+04/11/2020;Aston Martin;São Paulo;977500;1300000;500;14750;7500;Wheels'R'Us;Vantage;Prata;2020
+04/12/2020;Aston Martin;São Paulo;1577500;1300000;50500;14750;7500;Bright Orange;Vanquish;Prata;2020
+04/12/2020;Aston Martin;São Paulo;977500;1600000;500;14750;5700;Cut'n'Shut;Rapide;Preto;2020
+02/01/2015;Aston Martin;Minas Gerais;1812500;1300000;500;17250;5700;Les Arnaqueurs;Zagato;Verde;2015
+02/02/2015;Rolls Royce;São Paulo;1327500;670000;500;17250;5700;Wheels'R'Us;Prata Ghost;Prata;2015
+02/03/2015;Rolls Royce;São Paulo;1812500;670000;500;9650;6540;Cut'n'Shut;Wraith;Prata;2015
+02/04/2015;Rolls Royce;São Paulo;1127500;808900;500;4750;9870;Bright Orange;Prata Ghost;Verde;2015
+02/05/2015;Rolls Royce;São Paulo;1327500;670000;10000;17250;6540;Honest John;Camargue;Preto;2015
+02/06/2015;Rolls Royce;São Paulo;1812500;808900;500;17250;3210;Aldo Motors;Prata Shadow;Vermelho;2015
+02/07/2015;Rolls Royce;São Paulo;1127500;670000;18000;4750;9510;Aldo Motors;Prata Seraph;Vermelho;2015
+02/08/2015;Rolls Royce;São Paulo;1052500;670000;500;9750;9870;Honest John;Prata Ghost;Preto;2015
+02/09/2015;Rolls Royce;São Paulo;1327500;670000;500;4250;7500;Bright Orange;Prata Shadow;Verde;2015
+02/10/2015;Rolls Royce;São Paulo;1812500;808900;500;17250;6540;Wheels'R'Us;Camargue;Púrpura;2015
+02/11/2015;Rolls Royce;São Paulo;1812500;808900;8000;17250;9870;Cut'n'Shut;Prata Seraph;Preto;2015
+02/12/2015;Rolls Royce;São Paulo;1327500;808900;500;17250;3210;Wheels'R'Us;Prata Ghost;Vermelho;2015
+02/01/2015;Rolls Royce;São Paulo;1812500;670000;500;4750;6540;Wheels'R'Us;Phantom;Verde;2015
+02/02/2015;Aston Martin;São Paulo;1812500;808900;500;4750;9870;Cut'n'Shut;DB9;Púrpura;2015
+02/03/2015;Aston Martin;São Paulo;1127500;808900;500;4750;9630;Cut'n'Shut;DB4;Preto;2015
+02/04/2015;Aston Martin;São Paulo;1812500;808900;500;500;8520;Bright Orange;DB9;Preto;2015
+02/05/2015;Aston Martin;São Paulo;1127500;808900;500;4750;1470;Bright Orange;DB4;Azul;2015
+02/06/2015;Aston Martin;São Paulo;1052500;808900;8000;4250;8520;Honest John;DB4;Prata;2015
+02/07/2015;Aston Martin;São Paulo;1812500;670000;10500;4250;6540;Aldo Motors;Vanquish;Prata;2015
+02/08/2015;Aston Martin;São Paulo;1272500;670000;13000;4250;9840;Aldo Motors;Vanquish;Verde;2015
+02/09/2015;Aston Martin;São Paulo;1327500;670000;500;750;8950;Honest John;DB9;Prata;2015
+02/10/2015;Aston Martin;São Paulo;1127500;670000;500;4250;4860;Bright Orange;DB9;Azul;2015
+02/11/2015;Aston Martin;São Paulo;1812500;670000;500;17250;3250;Wheels'R'Us;Vanquish;Vermelho;2015
+02/12/2015;Aston Martin;São Paulo;1327500;1300000;500;17250;6580;Cut'n'Shut;Rapide;Vermelho;2015
+01/01/2020;Aston Martin;Rio de Janeiro;1127500;1300000;5500;4250;7520;Rocky Riding;Vanquish;Vermelho;2020
+01/02/2020;Jaguar;Rio de Janeiro;467500;300000;5500;4250;4860;Rocky Riding;XK;Púrpura;2020
+01/03/2020;Jaguar;Minas Gerais;477500;425000;5500;750;4860;Voitures Diplomatiques S.A.;XJ6;Verde;2020
+01/04/2020;Jaguar;Minas Gerais;422500;300000;5500;4750;4860;Les Arnaqueurs;XJ12;Preto;2020
+01/05/2020;Jaguar;São Paulo;467500;425000;5500;4750;4860;Bright Orange;XK;Prata;2020
+01/06/2020;Jaguar;São Paulo;467500;300000;5500;4750;4860;Honest John;XJ12;Prata;2020
+01/07/2020;Jaguar;São Paulo;422500;425000;5500;17250;4860;Wheels'R'Us;XK;Prata;2020
+01/08/2020;Jaguar;São Paulo;467500;300000;8000;4750;4860;Cut'n'Shut;XK;Verde;2020
+01/09/2020;Jaguar;Rio de Janeiro;1127500;550000;8000;17250;4860;Rocky Riding;XJ12;Azul;2020
+01/10/2020;Jaguar;Espírito Santo;1127500;300000;8000;17250;9870;Voitures Diplomatiques S.A.;XJ12;Prata;2020
+01/11/2020;Jaguar;São Paulo;467500;425000;500;4750;9870;Aldo Motors;XJ6;Verde;2020
+01/12/2020;Jaguar;São Paulo;422500;300000;500;4750;9870;Aldo Motors;XK;Púrpura;2020
+02/01/2015;Jaguar;São Paulo;467500;425000;500;17250;9870;Honest John;XK;Prata;2016
+02/02/2015;Jaguar;São Paulo;467500;300000;500;4750;9870;Bright Orange;XK;Verde;2016
+02/03/2015;Jaguar;São Paulo;467500;425000;8000;4750;9870;Cut'n'Shut;XK;Púrpura;2016
+02/04/2015;Jaguar;São Paulo;422500;300000;8000;4750;9870;Wheels'R'Us;XJ6;Vermelho;2016
+02/05/2015;Jaguar;São Paulo;1127500;425000;8000;4750;9870;Crippen & Co;XJ6;Vermelho;2016
+02/06/2015;Jaguar;Espírito Santo;467500;300000;5500;4250;9870;Voitures Diplomatiques S.A.;XJ6;Vermelho;2015
+02/07/2015;Jaguar;Rio de Janeiro;422500;425000;5500;4250;9870;Rocky Riding;XK;Púrpura;2016
+02/08/2015;Jaguar;São Paulo;422500;300000;5500;4250;7500;Crippen & Co;XK;Verde;2016
+02/09/2015;Jaguar;Minas Gerais;422500;175000;5500;4750;7500;Les Arnaqueurs;XK;Preto;2016
+02/10/2015;Jaguar;São Paulo;422500;300000;8000;4750;7500;Wheels'R'Us;XK;Prata;2016
+02/11/2015;Jaguar;São Paulo;422500;425000;8000;4750;7500;Wheels'R'Us;XK;Prata;2016
+02/12/2015;Jaguar;São Paulo;422500;300000;8000;4750;12500;Cut'n'Shut;XK;Prata;2016
+01/01/2020;Jaguar;São Paulo;422500;425000;8000;4750;12500;Cut'n'Shut;XJ6;Verde;2020
+01/02/2020;Bentley;São Paulo;422500;307000;8000;4750;12500;Bright Orange;Continental;Azul;2020
+01/03/2020;Bentley;São Paulo;467500;307000;8000;4750;12500;Bright Orange;Arnage;Prata;2020
+01/04/2020;Bentley;São Paulo;467500;307000;8000;7500;9870;Honest John;Azure;Vermelho;2020
+01/05/2020;Bentley;São Paulo;1127500;307000;8000;7500;12500;Honest John;Turbo R;Vermelho;2020
+01/06/2020;Bentley;São Paulo;1127500;670000;5500;7500;9870;Aldo Motors;Continental;Prata;2020
+01/07/2020;Bentley;São Paulo;1127500;670000;5500;7500;12500;Aldo Motors;Continental;Prata;2020
+01/08/2020;Bentley;Espírito Santo;1127500;307000;5500;7500;9870;Voitures Diplomatiques S.A.;Continental;Verde;2020
+01/09/2020;Bentley;Rio de Janeiro;1127500;307000;5500;7500;12500;Rocky Riding;Azure;Preto;2020
+01/10/2020;Bentley;Minas Gerais;467500;307000;5500;4750;9870;Les Arnaqueurs;Turbo R;Prata;2020
+01/11/2020;Bentley;São Paulo;1127500;670000;5500;4250;12500;Aldo Motors;Continental;Prata;2020
+01/12/2020;Bentley;São Paulo;467500;670000;5500;4250;9870;Honest John;Continental;Prata;2020
+02/01/2015;Bentley;São Paulo;467500;670000;5500;4250;9870;Bright Orange;Continental;Azul;2016
+02/02/2015;Bentley;São Paulo;1127500;307000;5500;4750;12500;Cut'n'Shut;Continental;Azul;2016
+02/03/2015;Bentley;São Paulo;1127500;307000;5500;7500;7500;Wheels'R'Us;Continental;Verde;2016
+02/04/2015;Bentley;Minas Gerais;440000;307000;5500;7500;7500;Les Arnaqueurs;Azure;Azul;2016
+02/05/2015;Bentley;São Paulo;1127500;307000;5500;7500;7500;Crippen & Co;Turbo R;Vermelho;2016
+02/06/2015;Bentley;Rio de Janeiro;422500;670000;5500;4750;7500;Rocky Riding;Turbo R;Vermelho;2016
+02/07/2015;Bentley;São Paulo;422500;670000;5500;4750;4860;Aldo Motors;Continental;Vermelho;2016
+02/08/2015;Bentley;São Paulo;422500;307000;5500;7500;4860;Honest John;Continental;Púrpura;2016
+02/09/2015;Bentley;Minas Gerais;440000;670000;13000;4250;4860;Les Arnaqueurs;Continental;Púrpura;2016
+02/10/2015;Bentley;São Paulo;422500;670000;10500;4250;4860;Wheels'R'Us;Continental;Verde;2016
+02/11/2015;Bentley;São Paulo;467500;670000;10500;4250;4860;Honest John;Continental;Preto;2016
+02/12/2015;Bentley;São Paulo;467500;307000;10500;4250;4860;Aldo Motors;Azure;Azul;2016
+02/01/2015;Bentley;Paraná;467500;307000;2000;250;4860;Costa Del Speed;Turbo R;Prata;2016
+02/02/2015;Jaguar;Paraná;325000;425000;2000;250;4860;Karz;XK;Vermelho;2015
+02/03/2015;TVR;Paraná;440000;425000;2000;250;3250;Costa Del Speed;Tuscan;Azul;2016
+02/04/2015;MGB;Bahia;225000;85000;1500;500;3250;Wheels'R'Us;GT;Verde;2015
+02/05/2015;TVR;Paraná;325000;425000;2000;250;3250;Voitures Diplomatiques S.A.;Cerbera;Prata;2015
+02/06/2015;Jaguar;Rio de Janeiro;1227500;425000;2000;250;3250;Rocky Riding;XK;Prata;2016
+02/07/2015;TVR;São Paulo;325000;425000;2000;250;3250;Honest John;Tuscan;Azul;2016
+02/08/2015;Jaguar;Minas Gerais;440000;425000;2000;250;3250;Les Arnaqueurs;XK;Prata;2016
+02/09/2015;TVR;São Paulo;325000;425000;2000;250;3250;Wheels'R'Us;Cerbera;Prata;2016
+02/10/2015;Jaguar;Rio de Janeiro;422500;425000;2000;250;3250;Rocky Riding;XK;Vermelho;2016
+02/11/2015;TVR;São Paulo;440000;425000;2000;250;3250;Wheels'R'Us;Tuscan;Azul;2016
+02/12/2015;Jaguar;São Paulo;325000;425000;2000;250;3250;Bright Orange;XK;Azul;2016
+02/01/2015;Jaguar;São Paulo;440000;425000;2000;250;3250;Olde Englande;XJ6;Azul;2016
+02/02/2015;Jaguar;São Paulo;422500;307000;2000;250;2500;Impressive Wheels;XJ6;Púrpura;2016
+02/03/2015;Jaguar;São Paulo;422500;307000;2000;250;2500;Olde Englande;XJ6;Verde;2016
+02/04/2015;Jaguar;São Paulo;422500;307000;2000;250;2500;Smooth Riders;XJ6;Preto;2016
+02/05/2015;Jaguar;São Paulo;422500;670000;2000;250;2500;Luxury Rentals;XK;Vermelho;2016
+02/06/2015;Jaguar;São Paulo;440000;670000;2000;250;2500;Premium Motor Vehicles;XK;Prata;2016
+02/07/2015;Jaguar;São Paulo;440000;307000;2000;250;2500;Luxury Rentals;XJ6;Prata;2016
+02/08/2015;Jaguar;São Paulo;422500;307000;2000;250;2500;Aldo Motors;XJ6;Prata;2016
+02/09/2015;Jaguar;São Paulo;422500;307000;2000;250;2500;Honest John;XK;Prata;2016
+02/10/2015;Jaguar;São Paulo;422500;670000;2000;250;2500;Honest John;XK;Prata;2016
+02/11/2015;Jaguar;São Paulo;422500;307000;2000;250;2500;Bright Orange;XJ6;Prata;2016
+02/12/2015;Jaguar;São Paulo;440000;670000;2000;250;2500;Cut'n'Shut;XK;Azul;2016
+02/01/2015;Jaguar;São Paulo;440000;670000;2000;250;2500;Wheels'R'Us;XK;Azul;2015
+02/02/2015;MGB;São Paulo;422500;95000;2000;250;3250;Olde Englande;GT;Vermelho;2015
+02/03/2015;MGB;São Paulo;422500;135000;2000;250;3250;Wheels'R'Us;GT;Verde;2015
+02/04/2015;MGB;São Paulo;280000;95000;2000;250;3250;Wheels'R'Us;GT;Vermelho;2017
+02/05/2015;MGB;São Paulo;252500;135000;2000;250;3250;Cut'n'Shut;GT;Vermelho;2017
+02/06/2015;MGB;São Paulo;252500;95000;2000;500;3250;Cut'n'Shut;GT;Vermelho;2017
+02/07/2015;MGB;São Paulo;252500;135000;2000;250;3250;Bright Orange;GT;Vermelho;2017
+02/08/2015;MGB;São Paulo;280000;95000;2000;250;3250;Honest John;GT;Azul;2017
+02/09/2015;MGB;São Paulo;252500;135000;2000;250;3250;Aldo Motors;GT;Verde;2017
+02/10/2015;MGB;São Paulo;280000;95000;2000;500;3250;Honest John;GT;Prata;2017
+02/11/2015;MGB;São Paulo;252500;135000;2000;250;3250;Bright Orange;GT;Prata;2017
+02/12/2015;MGB;São Paulo;280000;95000;2000;250;3250;Aldo Motors;GT;Azul;2017
+02/01/2015;MGB;São Paulo;252500;95000;2000;250;3250;Luxury Rentals;GT;Verde;2017
+02/02/2015;Triumph;São Paulo;252500;135000;2000;250;3250;Smooth Riders;TR4;Preto;2017
+02/03/2015;Triumph;São Paulo;280000;220000;2000;250;3250;Honest John;TR5;Púrpura;2017
+02/04/2015;Triumph;São Paulo;252500;135000;2000;500;3250;Impressive Wheels;TR7;Verde;2017
+02/05/2015;Triumph;São Paulo;252500;220000;2000;250;3250;Bright Orange;TR4;Azul;2017
+02/06/2015;Triumph;Paraná;252500;135000;2000;250;3250;Costa Del Speed;TR4;Prata;2017
+02/07/2015;Triumph;São Paulo;252500;220000;2000;250;3250;Cut'n'Shut;TR5;Prata;2017
+02/08/2015;Triumph;São Paulo;280000;220000;2000;500;3250;Wheels'R'Us;TR5;Azul;2017
+02/09/2015;Triumph;São Paulo;252500;220000;2000;250;3250;Olde Englande;TR4;Azul;2017
+02/10/2015;Triumph;São Paulo;280000;220000;2000;250;3250;Impressive Wheels;TR4;Vermelho;2017
+02/11/2015;Triumph;São Paulo;280000;220000;2000;250;3250;Cut'n'Shut;TR7;Vermelho;2017
+02/12/2015;Triumph;São Paulo;280000;220000;2000;250;3250;Bright Orange;TR4;Verde;2017
+09/01/2015;Triumph;Minas Gerais;280000;220000;5500;9500;4500;Chateau Moi;TR5;Prata;2017
+10/01/2015;Aston Martin;Minas Gerais;772500;361250;13000;9500;12500;Vive la Vitesse!;DB7;Vermelho;2017
+11/02/2015;Aston Martin;Minas Gerais;720000;225000;5500;9500;12500;Carosse Des Papes;DB7;Azul;2017
+12/03/2015;Aston Martin;Paraná;255000;275000;10500;9500;9500;Three Country Cars;Vantage;Verde;2015
+13/03/2015;Aston Martin;Paraná;397500;225000;8000;9500;12500;Jungfrau;Vantage;Prata;2015
+14/03/2015;Rolls Royce;Minas Gerais;772500;361250;10500;9500;12500;Chateau Moi;Camargue;Prata;2017
+15/04/2015;Aston Martin;Minas Gerais;485500;225000;25500;3250;9500;Vive la Vitesse!;DB7;Azul;2017
+16/04/2015;Rolls Royce;Minas Gerais;255000;275000;13000;3250;12500;Carosse Des Papes;Camargue;Preto;2017
+17/05/2015;Aston Martin;Paraná;485500;225000;10500;3250;12500;Three Country Cars;Vantage;Vermelho;2015
+18/05/2015;Aston Martin;Paraná;397500;225000;5500;9500;12500;Jungfrau;DB7;Azul;2015
+19/05/2015;Aston Martin;Minas Gerais;485500;225000;10500;0;12500;Chateau Moi;Vantage;Verde;2017
+20/06/2015;Aston Martin;Minas Gerais;404400;275000;25500;9500;9500;Vive la Vitesse!;DB7;Prata;2017
+21/07/2015;Aston Martin;Minas Gerais;772500;225000;13000;9500;12500;Carosse Des Papes;Vantage;Prata;2017
+22/07/2015;Rolls Royce;Espírito Santo;485500;225000;10500;2500;12500;Three Country Cars;Camargue;Púrpura;2015
+23/09/2015;Aston Martin;Espírito Santo;397500;275000;13000;0;12500;Jungfrau;DB7;Preto;2015
+24/10/2015;Aston Martin;Espírito Santo;404400;225000;5500;2500;12500;Jungfrau;DB9;Vermelho;2015
+25/11/2015;Rolls Royce;Minas Gerais;720000;225000;10500;0;9500;Vive la Vitesse!;Camargue;Azul;2017
+26/11/2015;Aston Martin;Espírito Santo;404400;361250;8000;9500;12500;Jungfrau;DB9;Verde;2015
+27/11/2015;Aston Martin;Minas Gerais;772500;225000;5500;9500;12500;Carosse Des Papes;DB7;Prata;2017
+04/10/2020;Aston Martin;Rio de Janeiro;404400;225000;5500;6500;12500;Ambassador Cars;DB9;Prata;2020
+04/10/2020;Rolls Royce;Rio de Janeiro;977500;550000;5500;6500;7500;Ambassador Cars;Camargue;Prata;2020
+01/01/2020;Aston Martin;Rio de Janeiro;1227500;800000;500;14000;5500;Embassy Motors;DB9;Azul;2020
+02/02/2020;Rolls Royce;Rio de Janeiro;907500;800000;8000;9000;5500;Style ‘N Ride;Camargue;Verde;2020
+03/03/2020;Rolls Royce;Rio de Janeiro;917500;930000;500;9000;5500;Embassy Motors;Camargue;Azul;2020
+04/04/2020;Rolls Royce;Rio de Janeiro;947500;670000;500;14000;5500;Sporty Types Corp;Camargue;Prata;2020
+04/05/2020;Rolls Royce;Rio de Janeiro;1052500;1300000;500;9000;5500;BritWheels;Camargue;Verde;2020
+04/06/2020;Aston Martin;Rio de Janeiro;1127500;610000;8000;4000;5500;Style ‘N Ride;DB9;Púrpura;2020
+04/07/2020;Aston Martin;Rio de Janeiro;1277500;285000;25500;9000;5500;Tweedy Wheels;DB9;Vermelho;2020
+04/08/2020;Aston Martin;Rio de Janeiro;1327500;205000;500;9000;7500;Ambassador Cars;DB9;Azul;2020
+04/09/2020;Aston Martin;Rio de Janeiro;777500;808900;1500;9000;7500;Ambassador Cars;DB9;Prata;2020
+04/11/2020;Aston Martin;Rio de Janeiro;712500;1040000;500;14000;7500;Tweedy Wheels;DB9;Azul;2020
+04/11/2020;Aston Martin;Rio de Janeiro;977500;1300000;500;14000;7500;Sporty Types Corp;DB9;Prata;2020
+04/12/2020;Aston Martin;Rio de Janeiro;1577500;1300000;50500;14000;7500;Style ‘N Ride;DB9;Prata;2020
+04/12/2020;Aston Martin;Rio de Janeiro;977500;1600000;500;14000;5700;BritWheels;DB9;Preto;2020
+02/01/2015;Aston Martin;Rio de Janeiro;1812500;1300000;500;16500;5700;Tweedy Wheels;DB9;Verde;2017
+02/02/2015;Rolls Royce;Rio de Janeiro;1327500;670000;500;16500;5700;Sporty Types Corp;Camargue;Prata;2017
+02/03/2015;Rolls Royce;Rio de Janeiro;1812500;670000;500;8900;6540;BritWheels;Camargue;Prata;2017
+02/04/2015;Rolls Royce;Rio de Janeiro;1127500;808900;500;4000;9870;Style ‘N Ride;Camargue;Verde;2017
+02/05/2015;Rolls Royce;Rio de Janeiro;1327500;670000;10000;16500;6540;Embassy Motors;Camargue;Preto;2017
+02/06/2015;Rolls Royce;Rio de Janeiro;1812500;808900;500;16500;3210;Ambassador Cars;Camargue;Vermelho;2017
+02/07/2015;Rolls Royce;Rio de Janeiro;1127500;670000;18000;4000;9510;Ambassador Cars;Camargue;Vermelho;2017
+02/08/2015;Rolls Royce;Rio de Janeiro;1052500;670000;500;9000;9870;Embassy Motors;Camargue;Preto;2017
+02/09/2015;Rolls Royce;Rio de Janeiro;1327500;670000;500;3500;7500;Style ‘N Ride;Camargue;Verde;2017
+02/10/2015;Rolls Royce;Rio de Janeiro;1812500;808900;500;16500;6540;Sporty Types Corp;Camargue;Púrpura;2017
+02/11/2015;Rolls Royce;Rio de Janeiro;1812500;808900;8000;16500;9870;BritWheels;Camargue;Preto;2017
+02/12/2015;Rolls Royce;Rio de Janeiro;1327500;808900;500;16500;3210;Sporty Types Corp;Camargue;Vermelho;2017
+02/01/2015;Rolls Royce;Rio de Janeiro;1812500;670000;500;4000;6540;Sporty Types Corp;Camargue;Verde;2017
+02/02/2015;Aston Martin;Rio de Janeiro;1812500;808900;500;4000;9870;BritWheels;DB9;Púrpura;2017
+02/03/2015;Aston Martin;Rio de Janeiro;1127500;808900;500;4000;9630;BritWheels;DB9;Preto;2017
+02/04/2015;Aston Martin;Rio de Janeiro;1812500;808900;500;500;8520;Style ‘N Ride;DB9;Preto;2017
+02/05/2015;Aston Martin;Rio de Janeiro;1127500;808900;450;4000;1470;Ambassador Cars;DB9;Azul;2017
+02/06/2015;Aston Martin;Rio de Janeiro;1052500;808900;8000;3500;8520;Embassy Motors;DB9;Prata;2017
+02/07/2015;Aston Martin;Rio de Janeiro;1812500;670000;5000;3500;6540;Style ‘N Ride;DB9;Prata;2017
+02/08/2015;Aston Martin;Rio de Janeiro;1272500;670000;13000;3500;9840;Sporty Types Corp;DB9;Verde;2017
+02/09/2015;Aston Martin;Rio de Janeiro;1327500;670000;500;0;8950;BritWheels;DB9;Prata;2017
+02/10/2015;Aston Martin;Rio de Janeiro;1127500;670000;500;3500;4860;Sporty Types Corp;DB9;Azul;2017
+02/11/2015;Aston Martin;Rio de Janeiro;1812500;670000;500;16500;3250;Sporty Types Corp;DB9;Vermelho;2017
+02/12/2015;Aston Martin;Rio de Janeiro;1327500;1300000;500;16500;6580;BritWheels;DB9;Vermelho;2017
+01/01/2020;Aston Martin;Rio de Janeiro;1127500;1300000;5500;3500;7520;Ambassador Cars;DB9;Vermelho;2020
+01/02/2020;Jaguar;Rio de Janeiro;467500;300000;5500;3500;4860;Ambassador Cars;XK;Púrpura;2020
+01/03/2020;Jaguar;Rio de Janeiro;477500;425000;500;0;4860;Ambassador Cars;XK;Verde;2020
+01/04/2020;Jaguar;Rio de Janeiro;422500;300000;500;4000;4860;Ambassador Cars;XK;Preto;2020
+01/05/2020;Jaguar;Rio de Janeiro;467500;425000;500;4000;4860;Style ‘N Ride;XK;Prata;2020
+01/06/2020;Jaguar;Rio de Janeiro;467500;300000;5500;4000;4860;Sporty Types Corp;XK;Prata;2020
+01/07/2020;Jaguar;Rio de Janeiro;422500;425000;5500;16500;4860;BritWheels;XK;Prata;2020
+01/08/2020;Jaguar;Rio de Janeiro;467500;300000;8000;4000;4860;Sporty Types Corp;XK;Verde;2020
+01/09/2020;Jaguar;Rio de Janeiro;1127500;550000;6500;16500;4860;Sporty Types Corp;XK;Azul;2020
+01/10/2020;Jaguar;Rio de Janeiro;1127500;300000;8000;16500;9870;BritWheels;XK;Prata;2020
+01/11/2020;Jaguar;Rio de Janeiro;467500;425000;500;4000;9870;BritWheels;XK;Verde;2020
+01/12/2020;Jaguar;Rio de Janeiro;422500;300000;500;4000;9870;Ambassador Cars;XK;Púrpura;2020
+02/01/2015;Jaguar;Rio de Janeiro;467500;425000;500;16500;9870;Embassy Motors;XK;Prata;2017
+02/02/2015;Jaguar;Rio de Janeiro;467500;300000;500;4000;9870;Style ‘N Ride;XK;Verde;2017
+02/03/2015;Jaguar;Rio de Janeiro;467500;425000;8000;4000;9870;BritWheels;XK;Púrpura;2017
+02/04/2015;Jaguar;Rio de Janeiro;422500;300000;6500;4000;9870;Sporty Types Corp;XK;Vermelho;2017
+02/05/2015;Jaguar;Rio de Janeiro;1127500;425000;6500;4000;9870;Union Jack Sports Cars;XK;Vermelho;2017
+02/06/2015;Jaguar;Rio de Janeiro;467500;300000;5500;3500;9870;British Luxury Automobile Corp;XK;Vermelho;2017
+02/07/2015;Jaguar;Rio de Janeiro;422500;425000;5500;3500;9870;Buckingham Palace Car Services;XK;Púrpura;2017
+02/08/2015;Jaguar;Rio de Janeiro;422500;300000;5500;3500;7500;Union Jack Sports Cars;XK;Verde;2017
+02/09/2015;Jaguar;Rio de Janeiro;422500;175000;5500;4000;7500;Tweedy Wheels;XK;Preto;2017
+02/10/2015;Jaguar;Rio de Janeiro;422500;300000;6500;4000;7500;Sporty Types Corp;XK;Prata;2017
+02/11/2015;Jaguar;Rio de Janeiro;422500;425000;8000;4000;7500;Sporty Types Corp;XK;Prata;2017
+02/12/2015;Jaguar;Rio de Janeiro;422500;300000;8000;4000;12500;BritWheels;XK;Prata;2017
+01/01/2020;Jaguar;Rio de Janeiro;422500;425000;6500;4000;12500;BritWheels;XK;Verde;2020
+01/02/2020;Bentley;Rio de Janeiro;422500;307000;8000;4000;12500;Style ‘N Ride;Continental;Azul;2020
+01/03/2020;Bentley;Rio de Janeiro;467500;307000;8000;4000;12500;Style ‘N Ride;Continental;Prata;2020
+01/04/2020;Bentley;Rio de Janeiro;467500;307000;6500;6750;9870;Embassy Motors;Continental;Vermelho;2020
+01/05/2020;Bentley;Rio de Janeiro;1127500;307000;8000;6750;12500;Embassy Motors;Continental;Vermelho;2020
+01/06/2020;Bentley;Rio de Janeiro;1127500;670000;5500;6750;9870;Ambassador Cars;Continental;Prata;2020
+01/07/2020;Bentley;Rio de Janeiro;1127500;670000;5500;6750;12500;Ambassador Cars;Continental;Prata;2020
+01/08/2020;Bentley;Rio de Janeiro;1127500;307000;5500;6750;9870;British Luxury Automobile Corp;Continental;Verde;2020
+01/09/2020;Bentley;Rio de Janeiro;1127500;307000;5500;6750;12500;Buckingham Palace Car Services;Continental;Preto;2020
+01/10/2020;Bentley;Rio de Janeiro;467500;307000;5500;4000;9870;Tweedy Wheels;Continental;Prata;2020
+01/11/2020;Bentley;Rio de Janeiro;1127500;670000;5500;3500;12500;Ambassador Cars;Continental;Prata;2020
+01/12/2020;Bentley;Rio de Janeiro;467500;670000;5500;3500;9870;Embassy Motors;Continental;Prata;2020
+02/01/2015;Bentley;Rio de Janeiro;467500;670000;4000;3500;9870;Style ‘N Ride;Continental;Azul;2017
+02/02/2015;Bentley;Rio de Janeiro;1127500;307000;5500;4000;12500;BritWheels;Continental;Azul;2017
+02/03/2015;Bentley;Rio de Janeiro;1127500;307000;4000;6750;7500;Sporty Types Corp;Continental;Verde;2017
+02/04/2015;Bentley;Rio de Janeiro;440000;307000;5500;6750;7500;Tweedy Wheels;Continental;Azul;2017
+02/05/2015;Bentley;Rio de Janeiro;1127500;307000;5500;6750;7500;Union Jack Sports Cars;Continental;Vermelho;2017
+02/06/2015;Bentley;Rio de Janeiro;422500;670000;4000;4000;7500;Buckingham Palace Car Services;Continental;Vermelho;2017
+02/07/2015;Bentley;Rio de Janeiro;422500;670000;5500;4000;4860;Ambassador Cars;Continental;Vermelho;2017
+02/08/2015;Bentley;Rio de Janeiro;422500;307000;5500;6750;4860;Embassy Motors;Continental;Púrpura;2017
+02/09/2015;Bentley;Rio de Janeiro;440000;670000;13000;3500;4860;Tweedy Wheels;Continental;Púrpura;2017
+02/10/2015;Bentley;Rio de Janeiro;422500;670000;10500;3500;4860;Sporty Types Corp;Continental;Verde;2017
+02/11/2015;Bentley;Rio de Janeiro;467500;670000;10500;3500;4860;Embassy Motors;Continental;Preto;2017
+02/12/2015;Bentley;Rio de Janeiro;467500;307000;10500;3500;4860;Ambassador Cars;Continental;Azul;2017
+02/02/2015;Jaguar;Rio de Janeiro;325000;425000;2000;-500;4860;Classy Car Sales;XK;Vermelho;2015
+02/04/2015;Jaguar;Rio de Janeiro;422500;425000;2000;-500;3250;Classy Car Sales;XK;Verde;2015
+02/05/2015;TVR;Rio de Janeiro;325000;425000;2000;-500;3250;British Luxury Automobile Corp;Tuscan;Prata;2015
+02/06/2015;Jaguar;Rio de Janeiro;1227500;425000;3500;-500;3250;Buckingham Palace Car Services;XK;Prata;2015
+02/07/2015;TVR;Rio de Janeiro;325000;425000;2000;-500;3250;Embassy Motors;Tuscan;Azul;2015
+02/08/2015;Jaguar;Rio de Janeiro;440000;425000;2000;-500;3250;Tweedy Wheels;XK;Prata;2015
+02/09/2015;TVR;Rio de Janeiro;325000;425000;2000;-500;3250;Sporty Types Corp;Tuscan;Prata;2015
+02/10/2015;Jaguar;Rio de Janeiro;422500;425000;3500;-500;3250;Buckingham Palace Car Services;XK;Vermelho;2015
+02/11/2015;TVR;Rio de Janeiro;440000;425000;2000;-500;3250;Sporty Types Corp;Tuscan;Azul;2015
+02/12/2015;Jaguar;Rio de Janeiro;325000;425000;3500;-500;3250;Style ‘N Ride;XK;Azul;2015
+02/01/2015;Jaguar;Rio de Janeiro;440000;425000;2000;-500;3250;BritWheels;XK;Azul;2015
+02/02/2015;Jaguar;Rio de Janeiro;422500;307000;2000;-500;2500;BritWheels;XK;Púrpura;2015
+02/03/2015;Jaguar;Rio de Janeiro;422500;307000;2000;-500;2500;BritWheels;XK;Verde;2015
+02/04/2015;Jaguar;Rio de Janeiro;422500;307000;2000;-500;2500;BritWheels;XK;Preto;2015
+02/05/2015;Jaguar;Rio de Janeiro;422500;670000;2000;-500;2500;BritWheels;XK;Vermelho;2015
+02/06/2015;Jaguar;Rio de Janeiro;440000;670000;2000;-500;2500;BritWheels;XK;Prata;2015
+02/07/2015;Jaguar;Rio de Janeiro;440000;307000;3500;-500;2500;BritWheels;XK;Prata;2015
+02/08/2015;Jaguar;Rio de Janeiro;422500;307000;2000;-500;2500;Ambassador Cars;XK;Prata;2015
+02/09/2015;Jaguar;Rio de Janeiro;422500;307000;2000;-500;2500;Embassy Motors;XK;Prata;2015
+02/10/2015;Jaguar;Rio de Janeiro;422500;670000;2000;-500;2500;Embassy Motors;XK;Prata;2015
+02/11/2015;Jaguar;Rio de Janeiro;422500;307000;3500;-500;2500;Style ‘N Ride;XK;Prata;2015
+02/12/2015;Jaguar;Rio de Janeiro;440000;670000;2000;-500;2500;BritWheels;XK;Azul;2015
+02/01/2015;Jaguar;Rio de Janeiro;440000;670000;1500;-500;2500;Sporty Types Corp;XK;Azul;2015
+02/02/2015;MGB;Rio de Janeiro;422500;95000;2000;-500;3250;British Luxury Automobile Corp;GT;Vermelho;2015
+02/03/2015;MGB;Rio de Janeiro;422500;135000;1500;-500;3250;Sporty Types Corp;GT;Verde;2015
+02/04/2015;MGB;Rio de Janeiro;280000;95000;3500;-500;3250;Sporty Types Corp;GT;Vermelho;2015
+02/05/2015;MGB;Rio de Janeiro;252500;135000;2000;-500;3250;BritWheels;GT;Vermelho;2015
+02/06/2015;MGB;Rio de Janeiro;252500;95000;2000;500;3250;BritWheels;GT;Vermelho;2015
+02/07/2015;MGB;Rio de Janeiro;252500;135000;1500;-500;3250;Style ‘N Ride;GT;Vermelho;2015
+02/08/2015;MGB;Rio de Janeiro;280000;95000;3500;-500;3250;Embassy Motors;GT;Azul;2015
+02/09/2015;MGB;Rio de Janeiro;252500;135000;2000;-500;3250;Ambassador Cars;GT;Verde;2015
+02/10/2015;MGB;Rio de Janeiro;280000;95000;2000;500;3250;Embassy Motors;GT;Prata;2015
+02/11/2015;MGB;Rio de Janeiro;252500;135000;2000;-500;3250;Style ‘N Ride;GT;Prata;2015
+02/12/2015;MGB;Rio de Janeiro;280000;95000;2000;-500;3250;Ambassador Cars;GT;Azul;2015
+02/01/2015;MGB;Rio de Janeiro;252500;95000;1500;-500;3250;Union Jack Sports Cars;GT;Verde;2015
+02/02/2015;Triumph;Rio de Janeiro;252500;135000;2000;-500;3250;Union Jack Sports Cars;TR4;Preto;2015
+02/03/2015;Triumph;Rio de Janeiro;280000;220000;2000;-500;3250;Embassy Motors;TR4;Púrpura;2015
+02/05/2015;Triumph;Rio de Janeiro;252500;220000;2000;-500;3250;Style ‘N Ride;TR4;Azul;2015
+02/07/2015;Triumph;Rio de Janeiro;252500;220000;2000;-500;3250;BritWheels;TR4;Prata;2015
+02/08/2015;Triumph;Rio de Janeiro;280000;220000;2000;500;3250;Sporty Types Corp;TR4;Azul;2015
+02/09/2015;Triumph;Rio de Janeiro;252500;220000;2000;-500;3250;Style ‘N Ride;TR4;Azul;2015
+02/10/2015;Triumph;Rio de Janeiro;280000;220000;2000;-500;3250;Ambassador Cars;TR4;Vermelho;2015
+02/11/2015;Triumph;Rio de Janeiro;280000;220000;2000;-500;3250;Classy Car Sales;TR4;Vermelho;2015
+02/12/2015;Triumph;Rio de Janeiro;280000;220000;2000;-500;3250;British Luxury Automobile Corp;TR4;Verde;2015
+09/01/2015;Triumph;Rio de Janeiro;280000;220000;5500;8750;4500;Embassy Motors;TR4;Prata;2015
+10/01/2015;Aston Martin;Rio de Janeiro;772500;361250;13000;8750;12500;BritWheels;DB9;Vermelho;2015
+11/02/2015;Aston Martin;Rio de Janeiro;720000;225000;5500;8750;12500;Style ‘N Ride;DB9;Azul;2019
+12/03/2015;Aston Martin;Rio de Janeiro;255000;275000;10500;8750;9500;Classy Car Sales;DB9;Verde;2019
+13/03/2015;Aston Martin;Rio de Janeiro;397500;225000;8000;8750;12500;Style ‘N Ride;DB9;Prata;2019
+14/03/2015;Rolls Royce;Rio de Janeiro;772500;361250;10500;8750;12500;Style ‘N Ride;Camargue;Prata;2019
+15/04/2015;Aston Martin;Rio de Janeiro;485500;225000;25500;2500;9500;Style ‘N Ride;DB9;Azul;2019
+16/04/2015;Rolls Royce;Rio de Janeiro;255000;275000;13000;2500;12500;Style ‘N Ride;Camargue;Preto;2019
+17/05/2015;Aston Martin;Rio de Janeiro;485500;225000;10500;2500;12500;Ambassador Cars;DB9;Vermelho;2019
+18/05/2015;Aston Martin;Rio de Janeiro;397500;225000;5500;8750;12500;Tweedy Wheels;DB9;Azul;2019
+19/05/2015;Aston Martin;Rio de Janeiro;485500;225000;10500;-750;12500;Embassy Motors;DB9;Verde;2019
+20/06/2015;Aston Martin;Rio de Janeiro;404400;275000;25500;8750;9500;Union Jack Sports Cars;DB9;Prata;2019
+21/07/2015;Aston Martin;Rio de Janeiro;772500;225000;13000;8750;12500;Style ‘N Ride;DB9;Prata;2019
+22/07/2015;Rolls Royce;Rio de Janeiro;485500;225000;10500;1750;12500;Sporty Types Corp;Camargue;Púrpura;2019
+23/09/2015;Aston Martin;Rio de Janeiro;397500;275000;13000;-750;12500;Buckingham Palace Car Services;DB9;Preto;2019
+24/10/2015;Aston Martin;Rio de Janeiro;404400;225000;5500;1750;12500;British Luxury Automobile Corp;DB9;Vermelho;2019
+25/11/2015;Rolls Royce;Rio de Janeiro;720000;225000;10500;-750;9500;Classy Car Sales;Camargue;Azul;2019
+26/11/2015;Aston Martin;Rio de Janeiro;404400;361250;8000;8750;12500;Ambassador Cars;DB9;Verde;2019
+27/11/2015;Aston Martin;Rio de Janeiro;772500;225000;5500;8750;12500;Embassy Motors;DB9;Prata;2019
+04/10/2018;Rolls Royce;São Paulo;950000;500000;5000;7500;7500;Aldo Motors;Camargue;Vermelho;2018
+01/01/2018;Aston Martin;São Paulo;1200000;750000;0;15000;5500;Honest John;DBS;Azul;2018
+02/02/2018;Rolls Royce;São Paulo;880000;750000;7500;10000;5500;Bright Orange;Prata Ghost;Verde;2018
+03/03/2018;Rolls Royce;São Paulo;890000;880000;0;10000;5500;Honest John;Prata Ghost;Azul;2018
+04/04/2018;Rolls Royce;São Paulo;920000;620000;0;15000;5500;Wheels'R'Us;Camargue;Prata;2018
+04/05/2018;Rolls Royce;São Paulo;1025000;1250000;0;10000;5500;Cut'n'Shut;Camargue;Verde;2018
+04/06/2018;Aston Martin;São Paulo;1100000;560000;7500;5000;5500;Bright Orange;DBS;Púrpura;2018
+04/07/2018;Aston Martin;Minas Gerais;1250000;235000;25000;10000;5500;Les Arnaqueurs;DB7;Vermelho;2018
+04/08/2018;Aston Martin;São Paulo;1300000;155000;0;10000;7500;Aldo Motors;DB9;Azul;2018
+04/09/2018;Aston Martin;São Paulo;750000;758900;0;10000;7500;Aldo Motors;DB9;Prata;2018
+04/09/2018;Aston Martin;São Paulo;685000;990000;0;10000;7500;Aldo Motors;DB4;Azul;2018
+04/11/2018;Aston Martin;Minas Gerais;950000;1250000;0;15000;7500;Les Arnaqueurs;Vantage;Prata;2018
+04/11/2018;Aston Martin;São Paulo;1550000;1250000;0;15000;7500;Wheels'R'Us;Vanquish;Azul;2018
+04/12/2018;Aston Martin;São Paulo;950000;1550000;50000;15000;5700;Bright Orange;Rapide;Preto;2018
+04/12/2018;Aston Martin;São Paulo;1785000;1250000;0;15000;5700;Cut'n'Shut;Zagato;Verde;2018
+02/01/2019;Rolls Royce;Minas Gerais;1300000;620000;0;17500;5700;Les Arnaqueurs;Prata Ghost;Prata;2019
+02/02/2019;Rolls Royce;São Paulo;1785000;620000;0;17500;6540;Wheels'R'Us;Wraith;Prata;2019
+02/03/2019;Rolls Royce;São Paulo;1100000;758900;0;9900;9870;Cut'n'Shut;Prata Ghost;Verde;2016
+02/04/2019;Rolls Royce;São Paulo;1300000;620000;0;5000;6540;Bright Orange;Camargue;Azul;2016
+02/05/2019;Rolls Royce;São Paulo;1785000;758900;9500;17500;3210;Honest John;Prata Shadow;Vermelho;2016
+02/06/2019;Rolls Royce;São Paulo;1100000;620000;0;17500;9510;Aldo Motors;Prata Seraph;Vermelho;2016
+02/07/2019;Rolls Royce;São Paulo;1025000;620000;17500;5000;9870;Aldo Motors;Prata Ghost;Preto;2016
+02/08/2019;Rolls Royce;São Paulo;1300000;620000;0;10000;7500;Honest John;Prata Shadow;Verde;2016
+02/09/2019;Rolls Royce;São Paulo;1785000;758900;0;4500;6540;Bright Orange;Camargue;Púrpura;2016
+02/10/2019;Rolls Royce;São Paulo;1785000;758900;0;17500;9870;Wheels'R'Us;Prata Seraph;Vermelho;2016
+02/11/2019;Rolls Royce;São Paulo;1300000;758900;7500;17500;3210;Cut'n'Shut;Prata Ghost;Vermelho;2016
+02/12/2019;Rolls Royce;São Paulo;1785000;620000;0;17500;6540;Wheels'R'Us;Phantom;Verde;2016
+02/01/2019;Aston Martin;São Paulo;1785000;758900;0;5000;9870;Wheels'R'Us;DB9;Púrpura;2016
+02/02/2019;Aston Martin;São Paulo;1100000;758900;0;5000;9630;Cut'n'Shut;DB4;Verde;2016
+02/03/2019;Aston Martin;São Paulo;1785000;758900;0;5000;8520;Cut'n'Shut;DB9;Preto;2016
+02/04/2019;Aston Martin;São Paulo;1100000;758900;0;0;1470;Bright Orange;DB4;Azul;2016
+02/05/2019;Aston Martin;São Paulo;1025000;758900;1;5000;8520;Bright Orange;DB4;Prata;2016
+02/06/2019;Aston Martin;São Paulo;1785000;620000;7500;4500;6540;Honest John;Vanquish;Prata;2016
+02/07/2019;Aston Martin;São Paulo;1245000;620000;10000;4500;9840;Aldo Motors;Vanquish;Verde;2016
+02/08/2019;Aston Martin;São Paulo;1300000;620000;12500;4500;8950;Aldo Motors;DB9;Azul;2016
+02/09/2019;Aston Martin;São Paulo;1100000;620000;0;0;4860;Honest John;DB9;Azul;2016
+02/10/2019;Aston Martin;São Paulo;1785000;620000;0;4500;3250;Bright Orange;Vanquish;Vermelho;2019
+02/11/2019;Aston Martin;São Paulo;1300000;1250000;0;17500;6580;Wheels'R'Us;Rapide;Vermelho;2019
+02/12/2019;Aston Martin;São Paulo;1100000;1250000;0;17500;7520;Cut'n'Shut;Vanquish;Vermelho;2019
+01/01/2018;Bentley;São Paulo;395000;257000;7500;5000;12500;Cut'n'Shut;Continental;Azul;2018
+01/02/2018;Bentley;São Paulo;440000;257000;7500;5000;12500;Bright Orange;Arnage;Azul;2018
+01/03/2018;Bentley;São Paulo;440000;257000;7500;5000;9870;Bright Orange;Azure;Vermelho;2018
+01/04/2018;Bentley;São Paulo;1100000;257000;7500;7750;12500;Honest John;Turbo R;Vermelho;2018
+01/05/2018;Bentley;São Paulo;1100000;620000;7500;7750;9870;Honest John;Continental;Prata;2018
+01/06/2018;Bentley;São Paulo;1100000;620000;5000;7750;12500;Aldo Motors;Continental;Púrpura;2018
+01/07/2018;Bentley;São Paulo;1100000;257000;5000;7750;9870;Aldo Motors;Continental;Verde;2018
+01/09/2018;Bentley;Rio de Janeiro;440000;257000;5000;7750;9870;Rocky Riding;Turbo R;Prata;2018
+01/10/2018;Bentley;Minas Gerais;1100000;620000;5000;5000;12500;Les Arnaqueurs;Continental;Prata;2018
+01/11/2018;Bentley;São Paulo;440000;620000;5000;4500;9870;Aldo Motors;Continental;Prata;2018
+01/12/2018;Bentley;São Paulo;440000;620000;5000;4500;9870;Honest John;Continental;Azul;2018
+02/01/2019;Bentley;São Paulo;1100000;257000;5000;4500;12500;Bright Orange;Continental;Azul;2019
+02/02/2019;Bentley;São Paulo;1100000;257000;5000;5000;7500;Cut'n'Shut;Continental;Verde;2019
+02/03/2019;Bentley;São Paulo;412500;257000;5000;7750;7500;Wheels'R'Us;Azure;Azul;2019
+02/04/2019;Bentley;Minas Gerais;1100000;257000;5000;7750;7500;Les Arnaqueurs;Turbo R;Vermelho;2019
+02/05/2019;Bentley;São Paulo;395000;620000;5000;7750;7500;Crippen & Co;Turbo R;Vermelho;2019
+02/06/2019;Bentley;Rio de Janeiro;395000;620000;5000;5000;4860;Rocky Riding;Continental;Vermelho;2019
+02/07/2019;Bentley;São Paulo;395000;257000;5000;5000;4860;Aldo Motors;Continental;Púrpura;2019
+02/08/2019;Bentley;São Paulo;412500;620000;5000;7750;4860;Honest John;Continental;Púrpura;2019
+02/09/2019;Bentley;Minas Gerais;395000;620000;12500;4500;4860;Les Arnaqueurs;Continental;Verde;2019
+02/10/2019;Bentley;São Paulo;440000;620000;10000;4500;4860;Wheels'R'Us;Continental;Preto;2019
+02/11/2019;Bentley;São Paulo;440000;257000;10000;4500;4860;Honest John;Azure;Azul;2019
+02/12/2019;Bentley;São Paulo;440000;257000;10000;4500;4860;Aldo Motors;Turbo R;Prata;2019
+02/01/2019;MGB;São Paulo;395000;45000;1500;500;3250;Wheels'R'Us;GT;Verde;2019
+02/02/2019;MGB;São Paulo;395000;85000;1500;500;3250;Olde Englande;GT;Verde;2019
+02/03/2019;MGB;São Paulo;252500;45000;1500;500;3250;Wheels'R'Us;GT;Vermelho;2019
+02/04/2019;MGB;São Paulo;225000;85000;1500;500;3250;Wheels'R'Us;GT;Vermelho;2019
+02/05/2019;MGB;São Paulo;225000;45000;1500;500;3250;Cut'n'Shut;GT;Vermelho;2019
+02/06/2019;MGB;São Paulo;225000;85000;1500;500;3250;Cut'n'Shut;GT;Vermelho;2019
+02/07/2019;MGB;São Paulo;252500;45000;1500;500;3250;Bright Orange;GT;Azul;2019
+02/08/2019;MGB;São Paulo;225000;85000;1500;500;3250;Honest John;GT;Verde;2019
+02/09/2019;MGB;São Paulo;252500;45000;1500;500;3250;Aldo Motors;GT;Prata;2019
+02/10/2019;MGB;São Paulo;225000;85000;1500;500;3250;Honest John;GT;Prata;2019
+02/11/2019;MGB;São Paulo;252500;45000;1500;500;3250;Bright Orange;GT;Azul;2019
+02/12/2019;MGB;São Paulo;225000;45000;1500;500;3250;Aldo Motors;GT;Verde;2019
+09/01/2019;Aston Martin;Minas Gerais;745000;311250;5000;9750;12500;Chateau Moi;DB7;Vermelho;2019
+10/01/2019;Aston Martin;Minas Gerais;692500;175000;12500;9750;12500;Vive la Vitesse!;DB7;Azul;2019
+11/02/2019;Aston Martin;Minas Gerais;227500;225000;5000;9750;9500;Carosse Des Papes;Vantage;Verde;2019
+14/03/2019;Aston Martin;Minas Gerais;458000;175000;10000;9750;9500;Chateau Moi;DB7;Azul;2019
+15/04/2019;Rolls Royce;Minas Gerais;227500;225000;25000;3500;12500;Vive la Vitesse!;Camargue;Preto;2019
+16/04/2019;Aston Martin;Minas Gerais;458000;175000;12500;3500;12500;Carosse Des Papes;Vantage;Vermelho;2019
+19/05/2019;Aston Martin;Minas Gerais;376900;225000;10000;9750;9500;Chateau Moi;DB7;Prata;2019
+20/06/2019;Aston Martin;Minas Gerais;745000;175000;25000;9750;12500;Vive la Vitesse!;Vantage;Prata;2019
+21/07/2019;Rolls Royce;Minas Gerais;458000;175000;12500;9750;12500;Carosse Des Papes;Camargue;Azul;2019
+25/11/2019;Aston Martin;Minas Gerais;376900;311250;10000;9750;12500;Vive la Vitesse!;DB9;Verde;2019
+27/11/2019;Aston Martin;Minas Gerais;376900;175000;5000;9750;12500;Carosse Des Papes;DB9;Prata;2019
+04/10/2020;Rolls Royce;São Paulo;977500;550000;5500;7250;7500;Aldo Motors;Camargue;Prata;2020
+01/01/2020;Aston Martin;São Paulo;1227500;800000;500;14750;5500;Honest John;DBS;Azul;2020
+02/02/2020;Rolls Royce;São Paulo;907500;800000;8000;9750;5500;Bright Orange;Prata Ghost;Verde;2020
+03/03/2020;Rolls Royce;São Paulo;917500;930000;500;9750;5500;Honest John;Prata Ghost;Azul;2020
+04/04/2020;Rolls Royce;São Paulo;947500;670000;500;14750;5500;Wheels'R'Us;Camargue;Prata;2020
+04/05/2020;Rolls Royce;São Paulo;1052500;1300000;500;9750;5500;Cut'n'Shut;Camargue;Verde;2020
+04/06/2020;Aston Martin;São Paulo;1127500;610000;8000;4750;5500;Bright Orange;DBS;Púrpura;2020
+04/07/2020;Aston Martin;Minas Gerais;1277500;285000;25500;9750;5500;Les Arnaqueurs;DB7;Vermelho;2020
+04/08/2020;Aston Martin;São Paulo;1327500;205000;500;9750;7500;Aldo Motors;DB9;Azul;2020
+04/09/2020;Aston Martin;São Paulo;777500;808900;500;9750;7500;Aldo Motors;DB9;Prata;2020
+04/11/2020;Aston Martin;Minas Gerais;712500;1040000;500;14750;7500;Les Arnaqueurs;DB4;Azul;2020
+04/11/2020;Aston Martin;São Paulo;977500;1300000;500;14750;7500;Wheels'R'Us;Vantage;Prata;2020
+04/12/2020;Aston Martin;São Paulo;1577500;1300000;50500;14750;7500;Bright Orange;Vanquish;Prata;2020
+04/12/2020;Aston Martin;São Paulo;977500;1600000;500;14750;5700;Cut'n'Shut;Rapide;Preto;2020
+02/01/2015;Aston Martin;Minas Gerais;1812500;1300000;500;17250;5700;Les Arnaqueurs;Zagato;Verde;2015
+02/02/2015;Rolls Royce;São Paulo;1327500;670000;500;17250;5700;Wheels'R'Us;Prata Ghost;Prata;2015
+02/03/2015;Rolls Royce;São Paulo;1812500;670000;500;9650;6540;Cut'n'Shut;Wraith;Prata;2015
+02/04/2015;Rolls Royce;São Paulo;1127500;808900;500;4750;9870;Bright Orange;Prata Ghost;Verde;2015
+02/05/2015;Rolls Royce;São Paulo;1327500;670000;10000;17250;6540;Honest John;Camargue;Preto;2015
+02/06/2015;Rolls Royce;São Paulo;1812500;808900;500;17250;3210;Aldo Motors;Prata Shadow;Vermelho;2015
+02/07/2015;Rolls Royce;São Paulo;1127500;670000;18000;4750;9510;Aldo Motors;Prata Seraph;Vermelho;2015
+02/08/2015;Rolls Royce;São Paulo;1052500;670000;500;9750;9870;Honest John;Prata Ghost;Preto;2015
+02/09/2015;Rolls Royce;São Paulo;1327500;670000;500;4250;7500;Bright Orange;Prata Shadow;Verde;2015
+02/10/2015;Rolls Royce;São Paulo;1812500;808900;500;17250;6540;Wheels'R'Us;Camargue;Púrpura;2015
+02/11/2015;Rolls Royce;São Paulo;1812500;808900;8000;17250;9870;Cut'n'Shut;Prata Seraph;Preto;2015
+02/12/2015;Rolls Royce;São Paulo;1327500;808900;500;17250;3210;Wheels'R'Us;Prata Ghost;Vermelho;2015
+02/01/2015;Rolls Royce;São Paulo;1812500;670000;500;4750;6540;Wheels'R'Us;Phantom;Verde;2015
+02/02/2015;Aston Martin;São Paulo;1812500;808900;500;4750;9870;Cut'n'Shut;DB9;Púrpura;2015
+02/03/2015;Aston Martin;São Paulo;1127500;808900;500;4750;9630;Cut'n'Shut;DB4;Preto;2015
+02/04/2015;Aston Martin;São Paulo;1812500;808900;500;500;8520;Bright Orange;DB9;Preto;2015
+02/05/2015;Aston Martin;São Paulo;1127500;808900;500;4750;1470;Bright Orange;DB4;Azul;2015
+02/06/2015;Aston Martin;São Paulo;1052500;808900;8000;4250;8520;Honest John;DB4;Prata;2015
+02/07/2015;Aston Martin;São Paulo;1812500;670000;10500;4250;6540;Aldo Motors;Vanquish;Prata;2015
+02/08/2015;Aston Martin;São Paulo;1272500;670000;13000;4250;9840;Aldo Motors;Vanquish;Verde;2015
+02/09/2015;Aston Martin;São Paulo;1327500;670000;500;750;8950;Honest John;DB9;Prata;2015
+02/10/2015;Aston Martin;São Paulo;1127500;670000;500;4250;4860;Bright Orange;DB9;Azul;2015
+02/11/2015;Aston Martin;São Paulo;1812500;670000;500;17250;3250;Wheels'R'Us;Vanquish;Vermelho;2015
+02/12/2015;Aston Martin;São Paulo;1327500;1300000;500;17250;6580;Cut'n'Shut;Rapide;Vermelho;2015
+01/01/2020;Aston Martin;Rio de Janeiro;1127500;1300000;5500;4250;7520;Rocky Riding;Vanquish;Vermelho;2020
+01/02/2020;Bentley;São Paulo;422500;307000;8000;4750;12500;Bright Orange;Continental;Azul;2020
+01/03/2020;Bentley;São Paulo;467500;307000;8000;4750;12500;Bright Orange;Arnage;Prata;2020
+01/04/2020;Bentley;São Paulo;467500;307000;8000;7500;9870;Honest John;Azure;Vermelho;2020
+01/05/2020;Bentley;São Paulo;1127500;307000;8000;7500;12500;Honest John;Turbo R;Vermelho;2020
+01/06/2020;Bentley;São Paulo;1127500;670000;5500;7500;9870;Aldo Motors;Continental;Prata;2020
+01/07/2020;Bentley;São Paulo;1127500;670000;5500;7500;12500;Aldo Motors;Continental;Prata;2020
+01/09/2020;Bentley;Rio de Janeiro;1127500;307000;5500;7500;12500;Rocky Riding;Azure;Preto;2020
+01/10/2020;Bentley;Minas Gerais;467500;307000;5500;4750;9870;Les Arnaqueurs;Turbo R;Prata;2020
+01/11/2020;Bentley;São Paulo;1127500;670000;5500;4250;12500;Aldo Motors;Continental;Prata;2020
+01/12/2020;Bentley;São Paulo;467500;670000;5500;4250;9870;Honest John;Continental;Prata;2020
+02/01/2015;Bentley;São Paulo;467500;670000;5500;4250;9870;Bright Orange;Continental;Azul;2016
+02/02/2015;Bentley;São Paulo;1127500;307000;5500;4750;12500;Cut'n'Shut;Continental;Azul;2016
+02/03/2015;Bentley;São Paulo;1127500;307000;5500;7500;7500;Wheels'R'Us;Continental;Verde;2016
+02/04/2015;Bentley;Minas Gerais;440000;307000;5500;7500;7500;Les Arnaqueurs;Azure;Azul;2016
+02/05/2015;Bentley;São Paulo;1127500;307000;5500;7500;7500;Crippen & Co;Turbo R;Vermelho;2016
+02/06/2015;Bentley;Rio de Janeiro;422500;670000;5500;4750;7500;Rocky Riding;Turbo R;Vermelho;2016
+02/07/2015;Bentley;São Paulo;422500;670000;5500;4750;4860;Aldo Motors;Continental;Vermelho;2016
+02/08/2015;Bentley;São Paulo;422500;307000;5500;7500;4860;Honest John;Continental;Púrpura;2016
+02/09/2015;Bentley;Minas Gerais;440000;670000;13000;4250;4860;Les Arnaqueurs;Continental;Púrpura;2016
+02/10/2015;Bentley;São Paulo;422500;670000;10500;4250;4860;Wheels'R'Us;Continental;Verde;2016
+02/11/2015;Bentley;São Paulo;467500;670000;10500;4250;4860;Honest John;Continental;Preto;2016
+02/12/2015;Bentley;São Paulo;467500;307000;10500;4250;4860;Aldo Motors;Azure;Azul;2016
+02/02/2015;MGB;São Paulo;422500;95000;2000;250;3250;Olde Englande;GT;Vermelho;2015
+02/03/2015;MGB;São Paulo;422500;135000;2000;250;3250;Wheels'R'Us;GT;Verde;2015
+02/04/2015;MGB;São Paulo;280000;95000;2000;250;3250;Wheels'R'Us;GT;Vermelho;2017
+02/05/2015;MGB;São Paulo;252500;135000;2000;250;3250;Cut'n'Shut;GT;Vermelho;2017
+02/06/2015;MGB;São Paulo;252500;95000;2000;500;3250;Cut'n'Shut;GT;Vermelho;2017
+02/07/2015;MGB;São Paulo;252500;135000;2000;250;3250;Bright Orange;GT;Vermelho;2017
+02/08/2015;MGB;São Paulo;280000;95000;2000;250;3250;Honest John;GT;Azul;2017
+02/09/2015;MGB;São Paulo;252500;135000;2000;250;3250;Aldo Motors;GT;Verde;2017
+02/10/2015;MGB;São Paulo;280000;95000;2000;500;3250;Honest John;GT;Prata;2017
+02/11/2015;MGB;São Paulo;252500;135000;2000;250;3250;Bright Orange;GT;Prata;2017
+02/12/2015;MGB;São Paulo;280000;95000;2000;250;3250;Aldo Motors;GT;Azul;2017
+02/01/2015;MGB;São Paulo;252500;95000;2000;250;3250;Luxury Rentals;GT;Verde;2017
+10/01/2015;Aston Martin;Minas Gerais;772500;361250;13000;9500;12500;Vive la Vitesse!;DB7;Vermelho;2017
+11/02/2015;Aston Martin;Minas Gerais;720000;225000;5500;9500;12500;Carosse Des Papes;DB7;Azul;2017
+14/03/2015;Rolls Royce;Minas Gerais;772500;361250;10500;9500;12500;Chateau Moi;Camargue;Prata;2017
+15/04/2015;Aston Martin;Minas Gerais;485500;225000;25500;3250;9500;Vive la Vitesse!;DB7;Azul;2017
+16/04/2015;Rolls Royce;Minas Gerais;255000;275000;13000;3250;12500;Carosse Des Papes;Camargue;Preto;2017
+19/05/2015;Aston Martin;Minas Gerais;485500;225000;10500;0;12500;Chateau Moi;Vantage;Verde;2017
+20/06/2015;Aston Martin;Minas Gerais;404400;275000;25500;9500;9500;Vive la Vitesse!;DB7;Prata;2017
+21/07/2015;Aston Martin;Minas Gerais;772500;225000;13000;9500;12500;Carosse Des Papes;Vantage;Prata;2017
+25/11/2015;Rolls Royce;Minas Gerais;720000;225000;10500;0;9500;Vive la Vitesse!;Camargue;Azul;2017
+27/11/2015;Aston Martin;Minas Gerais;772500;225000;5500;9500;12500;Carosse Des Papes;DB7;Prata;2017
+04/10/2020;Aston Martin;Rio de Janeiro;404400;225000;5500;6500;12500;Ambassador Cars;DB9;Prata;2020
+04/10/2020;Rolls Royce;Rio de Janeiro;977500;550000;5500;6500;7500;Ambassador Cars;Camargue;Prata;2020
+01/01/2020;Aston Martin;Rio de Janeiro;1227500;800000;500;14000;5500;Embassy Motors;DB9;Azul;2020
+02/02/2020;Rolls Royce;Rio de Janeiro;907500;800000;8000;9000;5500;Style ‘N Ride;Camargue;Verde;2020
+03/03/2020;Rolls Royce;Rio de Janeiro;917500;930000;500;9000;5500;Embassy Motors;Camargue;Azul;2020
+04/04/2020;Rolls Royce;Rio de Janeiro;947500;670000;500;14000;5500;Sporty Types Corp;Camargue;Prata;2020
+04/05/2020;Rolls Royce;Rio de Janeiro;1052500;1300000;500;9000;5500;BritWheels;Camargue;Verde;2020
+04/06/2020;Aston Martin;Rio de Janeiro;1127500;610000;8000;4000;5500;Style ‘N Ride;DB9;Púrpura;2020
+04/07/2020;Aston Martin;Rio de Janeiro;1277500;285000;25500;9000;5500;Tweedy Wheels;DB9;Vermelho;2020
+04/08/2020;Aston Martin;Rio de Janeiro;1327500;205000;500;9000;7500;Ambassador Cars;DB9;Azul;2020
+04/09/2020;Aston Martin;Rio de Janeiro;777500;808900;1500;9000;7500;Ambassador Cars;DB9;Prata;2020
+04/11/2020;Aston Martin;Rio de Janeiro;712500;1040000;500;14000;7500;Tweedy Wheels;DB9;Azul;2020
+04/11/2020;Aston Martin;Rio de Janeiro;977500;1300000;500;14000;7500;Sporty Types Corp;DB9;Prata;2020
+04/12/2020;Aston Martin;Rio de Janeiro;1577500;1300000;50500;14000;7500;Style ‘N Ride;DB9;Prata;2020
+04/12/2020;Aston Martin;Rio de Janeiro;977500;1600000;500;14000;5700;BritWheels;DB9;Preto;2020
+02/01/2015;Aston Martin;Rio de Janeiro;1812500;1300000;500;16500;5700;Tweedy Wheels;DB9;Verde;2017
+02/02/2015;Rolls Royce;Rio de Janeiro;1327500;670000;500;16500;5700;Sporty Types Corp;Camargue;Prata;2017
+02/03/2015;Rolls Royce;Rio de Janeiro;1812500;670000;500;8900;6540;BritWheels;Camargue;Prata;2017
+02/04/2015;Rolls Royce;Rio de Janeiro;1127500;808900;500;4000;9870;Style ‘N Ride;Camargue;Verde;2017
+02/05/2015;Rolls Royce;Rio de Janeiro;1327500;670000;10000;16500;6540;Embassy Motors;Camargue;Preto;2017
+02/06/2015;Rolls Royce;Rio de Janeiro;1812500;808900;500;16500;3210;Ambassador Cars;Camargue;Vermelho;2017
+02/07/2015;Rolls Royce;Rio de Janeiro;1127500;670000;18000;4000;9510;Ambassador Cars;Camargue;Vermelho;2017
+02/08/2015;Rolls Royce;Rio de Janeiro;1052500;670000;500;9000;9870;Embassy Motors;Camargue;Preto;2017
+02/09/2015;Rolls Royce;Rio de Janeiro;1327500;670000;500;3500;7500;Style ‘N Ride;Camargue;Verde;2017
+02/10/2015;Rolls Royce;Rio de Janeiro;1812500;808900;500;16500;6540;Sporty Types Corp;Camargue;Púrpura;2017
+02/11/2015;Rolls Royce;Rio de Janeiro;1812500;808900;8000;16500;9870;BritWheels;Camargue;Preto;2017
+02/12/2015;Rolls Royce;Rio de Janeiro;1327500;808900;500;16500;3210;Sporty Types Corp;Camargue;Vermelho;2017
+02/01/2015;Rolls Royce;Rio de Janeiro;1812500;670000;500;4000;6540;Sporty Types Corp;Camargue;Verde;2017
+02/02/2015;Aston Martin;Rio de Janeiro;1812500;808900;500;4000;9870;BritWheels;DB9;Púrpura;2017
+02/03/2015;Aston Martin;Rio de Janeiro;1127500;808900;500;4000;9630;BritWheels;DB9;Preto;2017
+02/04/2015;Aston Martin;Rio de Janeiro;1812500;808900;500;500;8520;Style ‘N Ride;DB9;Preto;2017
+02/05/2015;Aston Martin;Rio de Janeiro;1127500;808900;450;4000;1470;Ambassador Cars;DB9;Azul;2017
+02/06/2015;Aston Martin;Rio de Janeiro;1052500;808900;8000;3500;8520;Embassy Motors;DB9;Prata;2017
+02/07/2015;Aston Martin;Rio de Janeiro;1812500;670000;5000;3500;6540;Style ‘N Ride;DB9;Prata;2017
+02/08/2015;Aston Martin;Rio de Janeiro;1272500;670000;13000;3500;9840;Sporty Types Corp;DB9;Verde;2017
+02/09/2015;Aston Martin;Rio de Janeiro;1327500;670000;500;0;8950;BritWheels;DB9;Prata;2017
+02/10/2015;Aston Martin;Rio de Janeiro;1127500;670000;500;3500;4860;Sporty Types Corp;DB9;Azul;2017
+02/11/2015;Aston Martin;Rio de Janeiro;1812500;670000;500;16500;3250;Sporty Types Corp;DB9;Vermelho;2017
+02/12/2015;Aston Martin;Rio de Janeiro;1327500;1300000;500;16500;6580;BritWheels;DB9;Vermelho;2017
+01/01/2020;Aston Martin;Rio de Janeiro;1127500;1300000;5500;3500;7520;Ambassador Cars;DB9;Vermelho;2020
+01/02/2020;Bentley;Rio de Janeiro;422500;307000;8000;4000;12500;Style ‘N Ride;Continental;Azul;2020
+01/03/2020;Bentley;Rio de Janeiro;467500;307000;8000;4000;12500;Style ‘N Ride;Continental;Prata;2020
+01/04/2020;Bentley;Rio de Janeiro;467500;307000;6500;6750;9870;Embassy Motors;Continental;Vermelho;2020
+01/05/2020;Bentley;Rio de Janeiro;1127500;307000;8000;6750;12500;Embassy Motors;Continental;Vermelho;2020
+01/06/2020;Bentley;Rio de Janeiro;1127500;670000;5500;6750;9870;Ambassador Cars;Continental;Prata;2020
+01/07/2020;Bentley;Rio de Janeiro;1127500;670000;5500;6750;12500;Ambassador Cars;Continental;Prata;2020
+01/08/2020;Bentley;Rio de Janeiro;1127500;307000;5500;6750;9870;British Luxury Automobile Corp;Continental;Verde;2020
+01/09/2020;Bentley;Rio de Janeiro;1127500;307000;5500;6750;12500;Buckingham Palace Car Services;Continental;Preto;2020
+01/10/2020;Bentley;Rio de Janeiro;467500;307000;5500;4000;9870;Tweedy Wheels;Continental;Prata;2020
+01/11/2020;Bentley;Rio de Janeiro;1127500;670000;5500;3500;12500;Ambassador Cars;Continental;Prata;2020
+01/12/2020;Bentley;Rio de Janeiro;467500;670000;5500;3500;9870;Embassy Motors;Continental;Prata;2020
+02/01/2015;Bentley;Rio de Janeiro;467500;670000;4000;3500;9870;Style ‘N Ride;Continental;Azul;2017
+02/02/2015;Bentley;Rio de Janeiro;1127500;307000;5500;4000;12500;BritWheels;Continental;Azul;2017
+02/03/2015;Bentley;Rio de Janeiro;1127500;307000;4000;6750;7500;Sporty Types Corp;Continental;Verde;2017
+02/04/2015;Bentley;Rio de Janeiro;440000;307000;5500;6750;7500;Tweedy Wheels;Continental;Azul;2017
+02/05/2015;Bentley;Rio de Janeiro;1127500;307000;5500;6750;7500;Union Jack Sports Cars;Continental;Vermelho;2017
+02/06/2015;Bentley;Rio de Janeiro;422500;670000;4000;4000;7500;Buckingham Palace Car Services;Continental;Vermelho;2017
+02/07/2015;Bentley;Rio de Janeiro;422500;670000;5500;4000;4860;Ambassador Cars;Continental;Vermelho;2017
+02/08/2015;Bentley;Rio de Janeiro;422500;307000;5500;6750;4860;Embassy Motors;Continental;Púrpura;2017
+02/09/2015;Bentley;Rio de Janeiro;440000;670000;13000;3500;4860;Tweedy Wheels;Continental;Púrpura;2017
+02/10/2015;Bentley;Rio de Janeiro;422500;670000;10500;3500;4860;Sporty Types Corp;Continental;Verde;2017
+02/11/2015;Bentley;Rio de Janeiro;467500;670000;10500;3500;4860;Embassy Motors;Continental;Preto;2017
+02/12/2015;Bentley;Rio de Janeiro;467500;307000;10500;3500;4860;Ambassador Cars;Continental;Azul;2017
+02/02/2015;MGB;Rio de Janeiro;422500;95000;2000;-500;3250;British Luxury Automobile Corp;GT;Vermelho;2015
+02/03/2015;MGB;Rio de Janeiro;422500;135000;1500;-500;3250;Sporty Types Corp;GT;Verde;2015
+02/04/2015;MGB;Rio de Janeiro;280000;95000;3500;-500;3250;Sporty Types Corp;GT;Vermelho;2015
+02/05/2015;MGB;Rio de Janeiro;252500;135000;2000;-500;3250;BritWheels;GT;Vermelho;2015
+02/06/2015;MGB;Rio de Janeiro;252500;95000;2000;500;3250;BritWheels;GT;Vermelho;2015
+02/07/2015;MGB;Rio de Janeiro;252500;135000;1500;-500;3250;Style ‘N Ride;GT;Vermelho;2015
+02/08/2015;MGB;Rio de Janeiro;280000;95000;3500;-500;3250;Embassy Motors;GT;Azul;2015
+02/09/2015;MGB;Rio de Janeiro;252500;135000;2000;-500;3250;Ambassador Cars;GT;Verde;2015
+02/10/2015;MGB;Rio de Janeiro;280000;95000;2000;500;3250;Embassy Motors;GT;Prata;2015
+02/11/2015;MGB;Rio de Janeiro;252500;135000;2000;-500;3250;Style ‘N Ride;GT;Prata;2015
+02/12/2015;MGB;Rio de Janeiro;280000;95000;2000;-500;3250;Ambassador Cars;GT;Azul;2015
+02/01/2015;MGB;Rio de Janeiro;252500;95000;1500;-500;3250;Union Jack Sports Cars;GT;Verde;2015
+10/01/2015;Aston Martin;Rio de Janeiro;772500;361250;13000;8750;12500;BritWheels;DB9;Vermelho;2015
+11/02/2015;Aston Martin;Rio de Janeiro;720000;225000;5500;8750;12500;Style ‘N Ride;DB9;Azul;2019
+12/03/2015;Aston Martin;Rio de Janeiro;255000;275000;10500;8750;9500;Classy Car Sales;DB9;Verde;2019
+13/03/2015;Aston Martin;Rio de Janeiro;397500;225000;8000;8750;12500;Style ‘N Ride;DB9;Prata;2019
+14/03/2015;Rolls Royce;Rio de Janeiro;772500;361250;10500;8750;12500;Style ‘N Ride;Camargue;Prata;2019
+15/04/2015;Aston Martin;Rio de Janeiro;485500;225000;25500;2500;9500;Style ‘N Ride;DB9;Azul;2019
+16/04/2015;Rolls Royce;Rio de Janeiro;255000;275000;13000;2500;12500;Style ‘N Ride;Camargue;Preto;2019
+17/05/2015;Aston Martin;Rio de Janeiro;485500;225000;10500;2500;12500;Ambassador Cars;DB9;Vermelho;2019
+18/05/2015;Aston Martin;Rio de Janeiro;397500;225000;5500;8750;12500;Tweedy Wheels;DB9;Azul;2019
+19/05/2015;Aston Martin;Rio de Janeiro;485500;225000;10500;-750;12500;Embassy Motors;DB9;Verde;2019
+20/06/2015;Aston Martin;Rio de Janeiro;404400;275000;25500;8750;9500;Union Jack Sports Cars;DB9;Prata;2019
+21/07/2015;Aston Martin;Rio de Janeiro;772500;225000;13000;8750;12500;Style ‘N Ride;DB9;Prata;2019
+22/07/2015;Rolls Royce;Rio de Janeiro;485500;225000;10500;1750;12500;Sporty Types Corp;Camargue;Púrpura;2019
+23/09/2015;Aston Martin;Rio de Janeiro;397500;275000;13000;-750;12500;Buckingham Palace Car Services;DB9;Preto;2019
+24/10/2015;Aston Martin;Rio de Janeiro;404400;225000;5500;1750;12500;British Luxury Automobile Corp;DB9;Vermelho;2019
+25/11/2015;Rolls Royce;Rio de Janeiro;720000;225000;10500;-750;9500;Classy Car Sales;Camargue;Azul;2019
+26/11/2015;Aston Martin;Rio de Janeiro;404400;361250;8000;8750;12500;Ambassador Cars;DB9;Verde;2019
+27/11/2015;Aston Martin;Rio de Janeiro;772500;225000;5500;8750;12500;Embassy Motors;DB9;Prata;2019
+01/08/2018;MGB;Bahia;225000;85000;1500;500;3250;Wheels'R'Us;GT;Preto;2018

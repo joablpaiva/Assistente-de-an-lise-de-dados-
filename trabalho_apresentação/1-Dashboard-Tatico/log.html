@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+
+<body>
+    <h1>Veiculos Multimarcas</h1>
+    <form id="loginForm">
+        <label for="username">Usuário:</label>
+        <input type="text" id="username" name="username"><br><br>
+        <label for="password">Senha:</label>
+        <input type="password" id="password" name="password"><br><br>
+        <button type="submit">Login</button>
+    </form>
+
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var username = document.getElementById('username').value;
+            var password = document.getElementById('password').value;
+           //Pode-se inserir outra linha de codigo para autenticar as credenciais 
+            // Se as credenciais estiverem corretas, redirecione para a página Python
+            window.location.href = 'http://localhost:8501/';
+        });
+    </script>
+</body>
+</html>
