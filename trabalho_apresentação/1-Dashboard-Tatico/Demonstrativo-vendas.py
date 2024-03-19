@@ -6,10 +6,11 @@ import streamlit as st
 import pandas as pd 
 import plotly.express as px
 
-
+st.markdown("# Vendas de veiculos") # ao usar # antes do texto ele ficará em destaque .
 
 # Carregando os dados, no caso a seguir um arquivo csv.
 df = pd.read_csv("vendasveiculo.csv",  encoding = "ISO-8859-1", sep=';')
+df
 
 # Opções de gráficos/pela barra lateral podemos escolher o gráfico a ser exibido 
 opcoes_graficos = ['Gráfico de Barras', 'Gráfico de Pizza']
