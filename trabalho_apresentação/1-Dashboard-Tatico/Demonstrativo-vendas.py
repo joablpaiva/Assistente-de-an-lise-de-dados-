@@ -14,7 +14,7 @@ st.set_page_config(layout="wide")
 
 st.markdown("# Vendas de Veiculos de Luxo ") # ao usar # antes do texto ele ficará em destaque .
 
-# Carregando os dados, no caso a seguir um arquivo csv.
+# Carregando os dados.
 df = pd.read_csv("vendasveiculo.csv",  encoding = "ISO-8859-1", sep=';')
 df
 
@@ -27,14 +27,14 @@ df
 # Opções de gráficos/pela barra lateral podemos escolher o gráfico a ser exibido 
 opcoes_graficos = ['Gráfico de Barras', 'Gráfico de Pizza']
 
-# Título para a seleção do ano na barra lateral
+# selecione o ano na barra lateral
 st.sidebar.title('Selecione o Gráfico Desejado')
 
-# Barra lateral para seleção do tipo de gráfico
+# tipo de gráfico
 selecao_grafico = st.sidebar.selectbox('Selecione o tipo de gráfico', opcoes_graficos)
 
 
-# Define a cor de fundo desejada (vermelho)
+# fundo da barra lateral (vermelho)
 st.markdown("""
 <style>
             
@@ -46,14 +46,14 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Função para criar e exibir o gráfico de barras
+# gráfico de barras
 def mostrar_grafico_barras():
     total_vendas_por_estado = df.groupby('Estado')['ValorVenda'].sum().reset_index()
     total_vendas_por_estado = total_vendas_por_estado.sort_values(by='ValorVenda')  # Ordena os dados por ValorVenda
     fig = px.bar(total_vendas_por_estado, x='Estado', y='ValorVenda', title='Total de Vendas por Estado')
     st.plotly_chart(fig)
 
-# Função para criar e exibir o gráfico de pizza
+# gráfico de pizza
 def mostrar_grafico_pizza():
     total_vendas_por_fabricante = df.groupby('Fabricante')['ValorVenda'].sum().reset_index()
     fig = px.pie(total_vendas_por_fabricante, values='ValorVenda', names='Fabricante', title='Distribuição de Vendas por Fabricante')
@@ -70,7 +70,7 @@ elif selecao_grafico == 'Gráfico de Pizza':
 # Converter a coluna 'DataNotaFiscal' para o tipo datetime especificando o formato
 df['DataNotaFiscal'] = pd.to_datetime(df['DataNotaFiscal'], format='%d/%m/%Y')
 
-# Extrair o mês da coluna 'DataNotaFiscal' e criar uma nova coluna 'Mês'
+# Extrair e criar uma nova coluna 'Mês'
 df['Mês'] = df['DataNotaFiscal'].dt.month
 
 # Título para a seleção do ano na barra lateral
@@ -81,7 +81,7 @@ ano_selecionado = st.sidebar.selectbox('Selecione o ano:', sorted(df['Ano'].uniq
 
 
 
-# Filtrar os dados pelo ano selecionado
+# Filtrar o ano selecionado
 df_ano_selecionado = df[df['Ano'] == ano_selecionado]
 
 # Agrupar os dados filtrados por mês e calcular a soma das vendas para cada mês
@@ -96,7 +96,7 @@ st.plotly_chart(fig_vendas_por_mes)
 
 
 
-# Calcular a soma do custo de mão de obra para cada fabricante
+# soma do custo de mão de obra para cada fabricante
 custo_mao_de_obra_por_fabricante = df.groupby('Fabricante')['CustoMaoDeObra'].sum().reset_index()
 
 # Ordenar os valores pelo custo de mão de obra em ordem decrescente
